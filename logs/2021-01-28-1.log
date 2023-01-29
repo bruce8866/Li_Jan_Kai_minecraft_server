@@ -1,0 +1,169 @@
+[13:44:52] [Server thread/INFO]: scrx1316[/25.57.24.164:12482] logged in with entity id 1044123 at (-637.1412398196194, 19.0, -107.31170369314525)
+[13:44:52] [Server thread/INFO]: scrx1316 joined the game
+[13:45:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[13:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13:57:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13:58:00] [Server thread/INFO]: scrx1316 lost connection: Disconnected
+[13:58:00] [Server thread/INFO]: scrx1316 left the game
+[14:56:10] [Server thread/INFO]: Kaguratianyin[/1.171.132.56:51179] logged in with entity id 1048200 at (-349.9551214414652, 85.5, -194.207092810758)
+[14:56:10] [Server thread/INFO]: Kaguratianyin joined the game
+[14:57:49] [Server thread/INFO]: Kaguratianyin lost connection: Disconnected
+[14:57:49] [Server thread/INFO]: Kaguratianyin left the game
+[16:19:16] [Server thread/INFO]: bruce8866[/59.115.59.35:1359] logged in with entity id 1048697 at (-630.3596611911229, 53.04398466989314, -129.3732721298298)
+[16:19:16] [Server thread/INFO]: bruce8866 joined the game
+[16:19:18] [Netty Server IO #7/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[16:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16:21:47] [Server thread/INFO]: [bruce8866: ]
+[16:21:47] [Server thread/INFO]: [bruce8866: 漏斗計數器 (hopperCounters)]
+[16:21:47] [Server thread/INFO]: [bruce8866: 漏斗指向的羊毛方塊會計算吸收的物品並清除]
+[16:21:47] [Server thread/INFO]: [bruce8866:  在羊毛方塊上放置紅色或綠色地毯，使用/counter指令可啟用]
+[16:21:47] [Server thread/INFO]: [bruce8866:  使用 /counter <color?> reset重置計數器，使用/counter <color?>查詢資訊]
+[16:21:47] [Server thread/INFO]: [bruce8866:  在生存模式，在同色羊毛上放置綠色地毯可以查詢，放紅色地毯重置]
+[16:21:47] [Server thread/INFO]: [bruce8866:  數據是全伺服器玩家共享的，並且有16色可以使用]
+[16:21:47] [Server thread/INFO]: [bruce8866:  物品會被銷毀，每個漏斗每tick銷毀一組物品]
+[16:21:47] [Server thread/INFO]: [bruce8866: 分類: [指令], [創造用], [特性]]
+[16:21:47] [Server thread/INFO]: [bruce8866: 當前的值: true (modified value)]
+[16:21:47] [Server thread/INFO]: [bruce8866: Options: [ true false ]]
+[16:21:50] [Server thread/INFO]: [bruce8866: hopperCounters: false, [設為預設?]]
+[16:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3034ms or 60 ticks behind
+[16:34:06] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[16:34:06] [Server thread/INFO]: bruce8866 left the game
+[18:08:51] [Server thread/INFO]: LMY008117[/120.97.130.17:30718] logged in with entity id 1052289 at (-24.95726709052407, 62.0, -34.30000001192093)
+[18:08:51] [Server thread/INFO]: LMY008117 joined the game
+[18:08:52] [Netty Server IO #2/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[18:13:58] [Server thread/INFO]: bruce8866[/59.115.59.35:5076] logged in with entity id 1052772 at (-630.3058330371348, 49.89102973973207, -142.29996994589604)
+[18:13:58] [Server thread/INFO]: bruce8866 joined the game
+[18:14:00] [Netty Server IO #4/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[18:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[18:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3651ms or 73 ticks behind
+[18:14:28] [Server thread/INFO]: [bruce8866: ]
+[18:14:28] [Server thread/INFO]: [bruce8866: Average tick time: 51.172ms]
+[18:14:28] [Server thread/INFO]: [bruce8866: Top 10 counts:]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - chest in overworld: 703.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 467.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - villager in overworld: 166.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - hopper in the_nether: 134.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - item_frame in overworld: 102.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 87.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - cow in overworld: 87.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - cat in overworld: 85.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 68.0]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - zombified_piglin in the_nether: 61.9]
+[18:14:28] [Server thread/INFO]: [bruce8866: Top 10 CPU hogs:]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - villager in overworld: 10.55ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 9.68ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 2.25ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - cow in overworld: 2.06ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - cat in overworld: 1.90ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - zombie in overworld: 1.89ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - zombified_piglin in the_nether: 1.75ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - strider in the_nether: 1.44ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - horse in overworld: 1.16ms]
+[18:14:28] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 1.04ms]
+[19:06:18] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[19:06:18] [Server thread/INFO]: bruce8866 left the game
+[19:10:33] [Server thread/INFO]: LMY008117 has made the advancement [Not Quite "Nine" Lives]
+[19:19:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Potato'/1058603, l='ServerLevel[The World]', x=-286.69, y=70.41, z=-245.60]
+[19:22:24] [Server thread/INFO]: LMY008117 has made the advancement [Monster Hunter]
+[19:55:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[19:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:59:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3416ms or 68 ticks behind
+[20:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[20:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:04:53] [Server thread/INFO]: LMY008117 has made the advancement [Take Aim]
+[20:05:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:08:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-605, y=115, z=-120} class_2338{x=-604, y=113, z=-120}
+[20:08:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-605, y=115, z=-119} class_2338{x=-604, y=114, z=-119}
+[20:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:11:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-559, y=107, z=-95} class_2338{x=-560, y=107, z=-94}
+[20:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:18:04] [Server thread/INFO]: bruce8866[/59.115.59.35:9208] logged in with entity id 1068164 at (-9.506987227234601, 62.0, -38.42973160901648)
+[20:18:04] [Server thread/INFO]: bruce8866 joined the game
+[20:18:05] [Netty Server IO #6/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[20:18:07] [Server thread/INFO]: Villager class_1646['Villager'/9255, l='ServerLevel[The World]', x=-301.70, y=71.00, z=-229.70] died, message: 'Villager was squished too much'
+[20:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[20:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3384ms or 67 ticks behind
+[20:22:34] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[20:22:34] [Server thread/INFO]: bruce8866 left the game
+[20:22:38] [Server thread/INFO]: bruce8866[/59.115.59.35:9370] logged in with entity id 1069647 at (-4.9392304659321695, 64.125, -40.40101296830698)
+[20:22:38] [Server thread/INFO]: bruce8866 joined the game
+[20:22:39] [Netty Server IO #1/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[20:22:40] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[20:22:40] [Server thread/INFO]: bruce8866 left the game
+[20:22:45] [Server thread/INFO]: bruce8866[/59.115.59.35:9378] logged in with entity id 1069660 at (-5.567478499372143, 64.125, -40.39912445913432)
+[20:22:45] [Server thread/INFO]: bruce8866 joined the game
+[20:22:45] [Netty Server IO #4/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[20:29:59] [Server thread/INFO]: Kaguratianyin[/1.171.132.56:53318] logged in with entity id 1070974 at (-253.22045457815577, 77.0, -243.05643539462955)
+[20:29:59] [Server thread/INFO]: Kaguratianyin joined the game
+[20:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[20:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:35:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[20:35:45] [Server thread/INFO]: Villager class_1646['Librarian'/435, l='ServerLevel[The World]', x=-302.49, y=65.63, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:35:53] [Server thread/INFO]: Villager class_1646['Librarian'/436, l='ServerLevel[The World]', x=-302.49, y=65.63, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[20:36:49] [Server thread/INFO]: Villager class_1646['Librarian'/437, l='ServerLevel[The World]', x=-302.49, y=65.09, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:37:00] [Server thread/INFO]: Villager class_1646['Librarian'/438, l='ServerLevel[The World]', x=-302.49, y=65.63, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:37:09] [Server thread/INFO]: Villager class_1646['Librarian'/439, l='ServerLevel[The World]', x=-302.49, y=65.47, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:37:18] [Server thread/INFO]: Villager class_1646['Librarian'/440, l='ServerLevel[The World]', x=-302.49, y=65.63, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:37:27] [Server thread/INFO]: Villager class_1646['Librarian'/49520, l='ServerLevel[The World]', x=-302.49, y=65.04, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:38:05] [Server thread/INFO]: Villager class_1646['Librarian'/61419, l='ServerLevel[The World]', x=-302.50, y=65.20, z=-220.49] died, message: 'Librarian tried to swim in lava'
+[20:38:13] [Server thread/INFO]: Villager class_1646['Librarian'/326191, l='ServerLevel[The World]', x=-302.49, y=65.20, z=-220.48] died, message: 'Librarian tried to swim in lava'
+[20:38:20] [Server thread/INFO]: Villager class_1646['Librarian'/473446, l='ServerLevel[The World]', x=-302.48, y=65.04, z=-220.60] died, message: 'Librarian tried to swim in lava'
+[20:38:29] [Server thread/INFO]: Villager class_1646['Librarian'/515902, l='ServerLevel[The World]', x=-302.49, y=65.67, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:38:38] [Server thread/INFO]: Villager class_1646['Librarian'/534657, l='ServerLevel[The World]', x=-302.49, y=65.13, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:38:51] [Server thread/INFO]: Villager class_1646['Librarian'/572514, l='ServerLevel[The World]', x=-302.49, y=65.41, z=-220.48] died, message: 'Librarian tried to swim in lava'
+[20:39:00] [Server thread/INFO]: Villager class_1646['Librarian'/587879, l='ServerLevel[The World]', x=-302.49, y=65.84, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:39:15] [Server thread/INFO]: Villager class_1646['Librarian'/613338, l='ServerLevel[The World]', x=-302.49, y=65.87, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:39:24] [Server thread/INFO]: Villager class_1646['Librarian'/626656, l='ServerLevel[The World]', x=-302.53, y=65.16, z=-220.52] died, message: 'Librarian tried to swim in lava'
+[20:39:34] [Server thread/INFO]: Villager class_1646['Librarian'/722942, l='ServerLevel[The World]', x=-302.70, y=65.95, z=-220.50] died, message: 'Librarian burned to death'
+[20:39:43] [Server thread/INFO]: Villager class_1646['Librarian'/833607, l='ServerLevel[The World]', x=-302.49, y=65.36, z=-220.48] died, message: 'Librarian tried to swim in lava'
+[20:39:53] [Server thread/INFO]: Villager class_1646['Librarian'/836030, l='ServerLevel[The World]', x=-302.49, y=65.85, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:40:56] [Server thread/INFO]: Villager class_1646['Librarian'/959116, l='ServerLevel[The World]', x=-302.49, y=65.65, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:41:05] [Server thread/INFO]: Villager class_1646['Librarian'/1011080, l='ServerLevel[The World]', x=-302.49, y=65.68, z=-220.48] died, message: 'Librarian tried to swim in lava'
+[20:41:19] [Server thread/INFO]: Villager class_1646['Librarian'/1040130, l='ServerLevel[The World]', x=-302.49, y=65.87, z=-220.50] died, message: 'Librarian tried to swim in lava'
+[20:41:30] [Server thread/INFO]: Villager class_1646['Librarian'/1049218, l='ServerLevel[The World]', x=-302.49, y=65.60, z=-220.48] died, message: 'Librarian tried to swim in lava'
+[21:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[21:06:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Brick Slab'/1081840, l='ServerLevel[The World]', x=-229.06, y=64.00, z=-201.14]
+[21:06:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Brick Slab'/1081854, l='ServerLevel[The World]', x=-229.63, y=64.00, z=-200.13]
+[21:14:16] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[21:14:16] [Server thread/INFO]: bruce8866 left the game
+[21:14:53] [Server thread/INFO]: Kaguratianyin was slain by LMY008117 using [復仇女神]
+[21:15:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cooked Chicken'/1086049, l='ServerLevel[The World]', x=-27.88, y=67.50, z=-34.82]
+[21:19:18] [Server thread/INFO]: bruce8866[/59.115.59.35:11035] logged in with entity id 1086907 at (-27.30000001192093, 65.01355064990626, -33.31841063514565)
+[21:19:18] [Server thread/INFO]: bruce8866 joined the game
+[21:19:19] [Netty Server IO #1/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[21:22:14] [Server thread/INFO]: Kaguratianyin lost connection: Disconnected
+[21:22:14] [Server thread/INFO]: Kaguratianyin left the game
+[21:59:59] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[21:59:59] [Server thread/INFO]: bruce8866 left the game
+[22:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[22:23:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=66, z=-42} class_2338{x=-10, y=66, z=-43}
+[22:23:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=66, z=-42} class_2338{x=-10, y=66, z=-43}

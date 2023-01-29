@@ -1,0 +1,361 @@
+[11:08:14] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[11:08:14] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[11:08:14] [main/INFO]: [FabricLoader] Loading 50 mods: fabric-renderer-api-v1@0.3.0+8bcfced84e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, fabricloader@0.11.1, fabric-structure-api-v1@1.0.1+fb0d9b0e4e, bbor@2.4-1.16.3, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.7.0+432ea1884e, java@8, fabric-game-rule-api-v1@1.0.1+91555cd14e, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-rendering-fluids-v1@0.1.11+fb0d9b0e4e, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-renderer-registries-v1@2.1.0+e2862de64e, fabric-loot-tables-v1@1.0.1+432ea1884e, fabric@0.20.1+build.401-1.16, carpet@1.4.23, fabric-particles-v1@0.2.2+fb0d9b0e4e, fabric-networking-v0@0.1.10+e00ecb5f4e, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, minecraft@1.16.2, fabric-screen-handler-api-v1@1.1.0+872498414e, fabric-command-api-v1@1.0.8+5ce533984e, jankson@3.0.0+j1.2.0, fabric-tool-attribute-api-v1@1.2.2+ccce563e4e, fabric-renderer-indigo@0.4.0+8bcfced84e, org_apache_commons_commons-compress@1.19, fabric-events-interaction-v0@0.4.0+e2e6cdad4e, fabric-item-api-v1@1.1.0+29679fd64e, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-rendering-v0@1.1.0+534104904e, fabric-key-binding-api-v1@1.0.1+730711c64e, fabric-rendering-v1@1.3.0+432ea1884e, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.3.1+facf3bbf4e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, fabric-registry-sync-v0@0.4.5+fcdfdfa14e, fabric-commands-v0@0.2.0+52d308364e, textile_backup@2.0.0-1.16.2, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-object-builders-v0@0.7.0+432ea1884e
+[11:08:14] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[11:08:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/E:/Minecradfr%20server/1.16.4%20Spigot/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[11:08:24] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[11:08:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[11:08:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:08:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:08:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:08:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:08:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:08:27] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1)
+[11:08:28] [Worker-Main-6/INFO]: Loaded 7 recipes
+[11:08:28] [Worker-Main-6/INFO]: Loaded 927 advancements
+[11:08:30] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[11:08:30] [Server thread/INFO]: Loading properties
+[11:08:30] [Server thread/INFO]: Default game type: SURVIVAL
+[11:08:30] [Server thread/INFO]: Generating keypair
+[11:08:30] [Server thread/INFO]: Starting Minecraft server on *:38126
+[11:08:30] [Server thread/INFO]: Using default channel type
+[11:08:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:08:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:08:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:08:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:08:30] [Server thread/INFO]: Preparing level "The World"
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting language as zh_tw from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[11:08:30] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[11:08:31] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: -41683371)
+[11:08:31] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: -41683371)
+[11:08:31] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: -41683371)
+[11:08:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:08:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:33] [Server thread/INFO]: Preparing spawn area: 0%
+[11:08:35] [Server thread/INFO]: Time elapsed: 4235 ms
+[11:08:35] [Server thread/INFO]: Done (4.632s)! For help, type "help"
+[11:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[13:54:56] [Server thread/INFO]: bruce8866[/61.228.163.107:6413] logged in with entity id 639 at (-1234.6060299088606, 67.875, -442.2183875832666)
+[13:54:56] [Server thread/INFO]: bruce8866 joined the game
+[13:54:57] [Netty Server IO #2/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[14:08:18] [Server thread/INFO]: bruce8866 was slain by Wither Skeleton
+[14:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3274ms or 65 ticks behind
+[14:10:20] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -1256.5, 71.0, -432.5]
+[14:14:02] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[14:14:02] [Server thread/INFO]: bruce8866 left the game
+[14:15:20] [Server thread/INFO]: bruce8866[/61.228.163.107:6645] logged in with entity id 2706 at (-1214.4251913272726, 71.5, -420.79670479477807)
+[14:15:20] [Server thread/INFO]: bruce8866 joined the game
+[14:15:20] [Netty Server IO #1/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[14:20:39] [Server thread/INFO]: LMY008117[/120.97.130.16:2979] logged in with entity id 3300 at (-1230.699999988079, 97.0, -417.5727451337019)
+[14:20:39] [Server thread/INFO]: LMY008117 joined the game
+[14:20:41] [Netty Server IO #3/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[14:28:01] [Server thread/INFO]: <bruce8866> 奇怪
+[14:28:04] [Server thread/INFO]: <bruce8866> 阿泥土呢
+[14:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[14:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12204ms or 244 ticks behind
+[14:54:11] [Server thread/INFO]: <bruce8866> 你半專也鋪太早
+[14:54:23] [Server thread/INFO]: <bruce8866> 側邊要放地獄門
+[14:57:19] [Server thread/INFO]: <bruce8866> 把左右挖空間出來
+[14:57:23] [Server thread/INFO]: <bruce8866> 要放地獄門
+[14:57:31] [Server thread/INFO]: <bruce8866> 你還記得形狀吧
+[15:00:08] [Server thread/INFO]: <bruce8866> 你有火把的話最上層插一下
+[15:00:31] [Server thread/INFO]: <bruce8866> ??
+[15:00:37] [Server thread/INFO]: <bruce8866> 別亂
+[15:00:49] [Server thread/INFO]: <bruce8866> 別亂鋪阿
+[15:01:45] [Server thread/INFO]: <bruce8866> 你用燈籠給我負責拆喔
+[15:04:05] [Server thread/INFO]: <bruce8866> 先把左右空間挖出來
+[15:04:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1276, y=72, z=-440} class_2338{x=-1276, y=71, z=-438}
+[15:05:55] [Server thread/INFO]: <bruce8866> 大概先挖個巴格吧
+[15:06:01] [Server thread/INFO]: <bruce8866> 周圍一圈
+[15:15:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1279, y=72, z=-438} class_2338{x=-1279, y=72, z=-437}
+[15:15:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1279, y=72, z=-438} class_2338{x=-1279, y=72, z=-437}
+[15:19:17] [Server thread/INFO]: <bruce8866> 那時候說是用黑石蓋是不是
+[15:19:55] [Server thread/INFO]: <LMY008117> y
+[15:22:56] [Server thread/INFO]: <bruce8866> 不是黑石磚什麼的?
+[15:22:58] [Server thread/INFO]: <bruce8866> 就是黑石?
+[15:23:23] [Server thread/INFO]: <LMY008117> 不，是黑時專
+[15:27:12] [Server thread/INFO]: <bruce8866> s83ek7
+[15:27:13] [Server thread/INFO]: <bruce8866> 哪個
+[15:27:16] [Server thread/INFO]: <bruce8866> 拋光黑石磚?
+[15:28:04] [Server thread/INFO]: <bruce8866> ??
+[15:28:09] [Server thread/INFO]: <bruce8866> 箱子被炸掉
+[15:34:42] [Server thread/INFO]: <bruce8866> 現在一看莫名醜
+[15:34:48] [Server thread/INFO]: <bruce8866> 不過算了
+[15:44:21] [Server thread/INFO]: <bruce8866> n
+[15:44:21] [Server thread/INFO]: <bruce8866> n
+[15:44:26] [Server thread/INFO]: <bruce8866> 三格高
+[15:44:44] [Server thread/INFO]: <bruce8866> 你把抗火拿出來吧
+[15:47:22] [Server thread/INFO]: <bruce8866> p
+[15:47:24] [Server thread/INFO]: <bruce8866> 怎
+[15:47:28] [Server thread/INFO]: <bruce8866> 為什麼要挖掉
+[15:48:59] [Server thread/INFO]: <LMY008117> 地獄門的最大範圍是幾乘幾?
+[15:49:11] [Server thread/INFO]: <bruce8866> 不管多大
+[15:49:18] [Server thread/INFO]: <bruce8866> 他們腳下那層都要採阿
+[15:49:34] [Server thread/INFO]: <bruce8866> 你中間這層不鋪他不就掉下去了
+[15:50:06] [Server thread/INFO]: <bruce8866> 最大23*23
+[15:50:07] [Server thread/INFO]: <LMY008117> 但不是一碰到就船走了嗎?
+[15:57:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1234, y=69, z=-428} class_2338{x=-1233, y=68, z=-428}
+[15:57:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1234, y=69, z=-428} class_2338{x=-1233, y=68, z=-428}
+[15:57:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1234, y=69, z=-428} class_2338{x=-1233, y=68, z=-428}
+[15:57:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1234, y=69, z=-428} class_2338{x=-1233, y=68, z=-428}
+[15:57:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1234, y=69, z=-428} class_2338{x=-1233, y=68, z=-428}
+[16:01:04] [Server thread/INFO]: <bruce8866> 話說等等
+[16:01:09] [Server thread/INFO]: <bruce8866> 為什麼附近還有EOE
+[16:01:33] [Server thread/INFO]: <bruce8866> 喔我們沒鋪那麼遠
+[16:01:41] [Server thread/INFO]: <LMY008117> 因為eoe世聲在空中的?
+[16:01:51] [Server thread/INFO]: <bruce8866> EOE依樣只會生在地板
+[16:02:07] [Server thread/INFO]: <bruce8866> 那我們這樣之後維修就要小心了
+[16:02:19] [Server thread/INFO]: <LMY008117> nn
+[16:02:20] [Server thread/INFO]: <bruce8866> 不要被炸壞
+[16:04:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1237, y=65, z=-437} class_2338{x=-1235, y=65, z=-435}
+[16:13:02] [Server thread/INFO]: <bruce8866> 5k4g
+[16:13:05] [Server thread/INFO]: <bruce8866> 這是怎樣
+[16:13:30] [Server thread/INFO]: <LMY008117> 剛去挖廢棄船送門
+[16:13:37] [Server thread/INFO]: <bruce8866> 謝謝你
+[16:13:39] [Server thread/INFO]: <bruce8866> 但是你知道
+[16:13:45] [Server thread/INFO]: <bruce8866> 已經生成的是回不去了
+[16:15:01] [Server thread/INFO]: <bruce8866> 黑曜石那側要挖八格
+[16:15:22] [Server thread/INFO]: <bruce8866> 短邊要挖四格
+[16:15:36] [Server thread/INFO]: <bruce8866> 然後黑石用完了
+[16:16:28] [Server thread/INFO]: <bruce8866> 腳下那格記得也要挖掉
+[16:16:34] [Server thread/INFO]: <bruce8866> 我回去拿點黑石
+[16:19:28] [Server thread/INFO]: <bruce8866> i ur8 xu3
+[16:19:31] [Server thread/INFO]: <bruce8866> 喔家裡全沒了喔
+[16:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:22:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16:22:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1238, y=71, z=-419} class_2338{x=-1273, y=65, z=-417}
+[16:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:24:35] [Server thread/INFO]: <bruce8866> 我掛著讓他生
+[16:24:44] [Server thread/INFO]: <bruce8866> 你先把我說的那一圈挖出來
+[16:25:10] [Server thread/INFO]: <bruce8866> 應該說讓他換黑石
+[16:27:12] [Server thread/INFO]: <bruce8866> 他也換太久
+[16:30:25] [Server thread/INFO]: <LMY008117> 挖好了
+[16:30:52] [Server thread/INFO]: <bruce8866> k
+[16:30:55] [Server thread/INFO]: <bruce8866> 那
+[16:31:04] [Server thread/INFO]: <bruce8866> 周圍整理一下吧
+[16:31:21] [Server thread/INFO]: <bruce8866> 該補半專的補半專
+[16:31:31] [Server thread/INFO]: <bruce8866> 該放樓梯好攀爬的挖一個出來
+[16:31:45] [Server thread/INFO]: <bruce8866> 他這換不知道要換到民國幾年
+[16:31:49] [Server thread/INFO]: <bruce8866> 才換一組多
+[17:54:40] [Server thread/INFO]: <LMY008117> 換得如何?
+[18:09:27] [Server thread/INFO]: <bruce8866> 我直接睡著了
+[18:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[18:18:25] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[18:18:34] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[18:23:55] [Server thread/INFO]: <LMY008117> k
+[18:26:28] [Server thread/INFO]: LMY008117 walked into fire whilst fighting Ghast
+[18:26:39] [Server thread/INFO]: <bruce8866> !?
+[18:32:08] [Server thread/INFO]: <LMY008117> ......
+[18:32:35] [Server thread/INFO]: <bruce8866> 你東西我放箱子了
+[18:32:41] [Server thread/INFO]: <bruce8866> 不過我沒看到鞘翅
+[18:32:48] [Server thread/INFO]: <LMY008117> 謝了
+[18:34:29] [Server thread/INFO]: <LMY008117> 不是，我沒靜音耶，怎麼沒聽到聲音
+[18:36:05] [Server thread/INFO]: <LMY008117> 鞘翅該不會被炸到下面了吧?
+[18:36:36] [Server thread/INFO]: <bruce8866> idk
+[18:36:51] [Server thread/INFO]: <bruce8866> 你來的時候帶一顆史萊姆專
+[18:36:56] [Server thread/INFO]: <bruce8866> 不然會摔死
+[18:37:58] [Server thread/INFO]: <LMY008117> 我先跳上數拿鞘翅
+[18:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[18:49:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[18:53:42] [Server thread/INFO]: <LMY008117> 哭啊，我的頭盔
+[18:53:51] [Server thread/INFO]: <bruce8866> ?
+[18:54:10] [Server thread/INFO]: <LMY008117> 喔沒事
+[18:55:25] [Server thread/INFO]: <bruce8866> 要鋪按鈕了
+[18:57:24] [Server thread/INFO]: <bruce8866> 黑實在這
+[19:19:31] [Server thread/INFO]: <bruce8866> 阿
+[19:19:39] [Server thread/INFO]: <bruce8866> 我想到一件小麻煩的是
+[19:19:45] [Server thread/INFO]: <bruce8866> 要引豬布林
+[19:23:22] [Server thread/INFO]: <bruce8866> 一層要四隻
+[19:23:31] [Server thread/INFO]: <bruce8866> 要十二隻
+[19:23:50] [Server thread/INFO]: <bruce8866> 可是附近不好生
+[19:25:00] [Server thread/INFO]: <LMY008117> 緋紅森林如何?
+[19:25:07] [Server thread/INFO]: <bruce8866> 可以是可以
+[19:25:09] [Server thread/INFO]: <bruce8866> 小遠
+[19:25:15] [Server thread/INFO]: <bruce8866> 中間又沒路
+[19:26:20] [Server thread/INFO]: <LMY008117> 挖一條鹿?
+[19:26:27] [Server thread/INFO]: <bruce8866> 你是要從哪邊
+[19:26:36] [Server thread/INFO]: <bruce8866> 對面的話是用鋪的
+[19:26:40] [Server thread/INFO]: <LMY008117> 機地後方
+[19:26:54] [Server thread/INFO]: <bruce8866> 也是可以
+[19:28:34] [Server thread/INFO]: <bruce8866> 基本上
+[19:28:46] [Server thread/INFO]: <bruce8866> 把按鈕鋪完
+[19:28:52] [Server thread/INFO]: <bruce8866> 豬布林跟狗定位
+[19:29:02] [Server thread/INFO]: <bruce8866> 然後擺好凋零花
+[19:29:05] [Server thread/INFO]: <bruce8866> 就完工了
+[19:31:26] [Server thread/INFO]: <LMY008117> 我挖好一條了
+[19:31:44] [Server thread/INFO]: <bruce8866> 就引吧
+[19:31:56] [Server thread/INFO]: <bruce8866> 我這邊狗也差不多了
+[19:34:06] [Server thread/INFO]: <LMY008117> 我癮呢，引到哪?
+[19:34:19] [Server thread/INFO]: <bruce8866> 先固定住
+[19:34:27] [Server thread/INFO]: <bruce8866> 或是你要直接引到定點已可以
+[19:34:31] [Server thread/INFO]: <bruce8866> 記得命名
+[19:35:14] [Server thread/INFO]: <LMY008117> 我沒命名牌
+[19:42:35] [Server thread/INFO]: <bruce8866> 結果呢
+[19:42:37] [Server thread/INFO]: <bruce8866> 你隱去哪
+[19:43:12] [Server thread/INFO]: <LMY008117> 都掛了，正在找新的
+[19:43:18] [Server thread/INFO]: <bruce8866> ??
+[19:43:32] [Server thread/INFO]: <bruce8866> 你路在哪
+[19:44:28] [Server thread/INFO]: <LMY008117> 後方的飛鴻森林，挺明顯得
+[19:44:37] [Server thread/INFO]: <bruce8866> 我說路
+[19:45:12] [Server thread/INFO]: <bruce8866> 我沒看到你有挖路
+[19:45:43] [Server thread/INFO]: <LMY008117> -1193 93 -415
+[19:45:47] [Server thread/INFO]: <bruce8866> 路啦
+[19:45:51] [Server thread/INFO]: <bruce8866> 不是問你在哪
+[19:45:55] [Server thread/INFO]: <LMY008117> 陸啊
+[19:45:58] [Server thread/INFO]: <bruce8866> 我就在你後面
+[19:46:40] [Server thread/INFO]: <bruce8866> 好吧算你很
+[19:47:42] [Server thread/INFO]: <bruce8866> 25個撿走
+[19:54:05] [Server thread/INFO]: <bruce8866> 1j6m/4
+[19:54:07] [Server thread/INFO]: <bruce8866> k
+[19:55:21] [Server thread/INFO]: <LMY008117> 目前4知
+[19:55:32] [Server thread/INFO]: <bruce8866> k
+[20:03:31] [Server thread/INFO]: [bruce8866: Initial point set to: [ -1237.6, 70.0, -419.4]]
+[20:03:44] [Server thread/INFO]: [bruce8866: Initial point set to: [ -1237.6, 70.0, -419.4]]
+[20:05:25] [Server thread/INFO]: [bruce8866: Initial point set to: [ -1274.7, 74.0, -419.5]]
+[20:08:28] [Server thread/INFO]: <bruce8866> ??
+[20:08:44] [Server thread/INFO]: <bruce8866> 為什麼一直有爆炸聲
+[20:09:03] [Server thread/INFO]: <LMY008117> EOE
+[20:09:48] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[20:10:12] [Server thread/INFO]: [bruce8866: Made Bruce88 no longer a server operator]
+[20:10:19] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[20:14:58] [Server thread/INFO]: <LMY008117> 目前7隻
+[20:29:54] [Server thread/INFO]: <bruce8866> 你的尖刺總有一天會把不該殺的殺掉
+[20:31:28] [Server thread/INFO]: <bruce8866> 他們該定位的位置我擺好了
+[20:34:34] [Server thread/INFO]: <LMY008117> 抓完了
+[20:34:52] [Server thread/INFO]: <bruce8866> 那把他們移過來吧
+[20:35:34] [Server thread/INFO]: <LMY008117> 我能先跟你換穿裝備嗎?
+[20:37:00] [Server thread/INFO]: <bruce8866> ?
+[20:37:04] [Server thread/INFO]: <bruce8866> 換裝?
+[20:37:27] [Server thread/INFO]: <LMY008117> 嗯，我的尖刺(
+[20:37:43] [Server thread/INFO]: <bruce8866> 你全身間次?
+[20:37:57] [Server thread/INFO]: <LMY008117> 對
+[20:38:06] [Server thread/INFO]: <bruce8866> 你好意思
+[20:38:11] [Server thread/INFO]: <bruce8866> 但我也沒胸甲
+[20:38:14] [Server thread/INFO]: <LMY008117> 或是我先一單知的
+[20:38:32] [Server thread/INFO]: <bruce8866> 等等我想到
+[20:38:37] [Server thread/INFO]: <bruce8866> 我要先把地獄門點燃
+[20:39:12] [Server thread/INFO]: <LMY008117> 那他們要怎麼進去?
+[20:39:57] [Server thread/INFO]: <bruce8866> 多的黑鑰匙呢
+[20:40:24] [Server thread/INFO]: <bruce8866> 不會數量剛好吧
+[20:41:05] [Server thread/INFO]: <bruce8866> 我是不是告訴過你了
+[20:41:16] [Server thread/INFO]: <bruce8866> 放副手總有一天會射出去
+[20:41:21] [Server thread/INFO]: <bruce8866> d04
+[20:41:23] [Server thread/INFO]: <bruce8866> 看
+[20:41:23] [Server thread/INFO]: <LMY008117> 就醫科
+[20:41:27] [Server thread/INFO]: <bruce8866> 現世報
+[20:41:37] [Server thread/INFO]: <bruce8866> 有那個剛好?
+[20:41:54] [Server thread/INFO]: <bruce8866> 好吧我回家拿
+[20:43:39] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to 0.5, 200.0, 0.5]
+[20:44:59] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -1256.5, 71.0, -432.5]
+[20:46:22] [Server thread/INFO]: <LMY008117> ...糟糕
+[20:46:25] [Server thread/INFO]: <bruce8866> ?
+[20:46:41] [Server thread/INFO]: <LMY008117> 一隻死了
+[20:46:55] [Server thread/INFO]: <bruce8866> 裝備再赴監視阿
+[20:47:09] [Server thread/INFO]: <LMY008117> 她是摔死的
+[20:47:13] [Server thread/INFO]: <bruce8866> >>?
+[20:47:20] [Server thread/INFO]: <bruce8866> ..?
+[20:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
+[20:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20:55:14] [Server thread/INFO]: <LMY008117> 該死的烈焰神
+[20:55:19] [Server thread/INFO]: [bruce8866: Changed the block at -10075, 65, -3468]
+[20:55:33] [Server thread/INFO]: <bruce8866> ?
+[20:55:47] [Server thread/INFO]: <LMY008117> 她燒死一隻了
+[20:56:03] [Server thread/INFO]: <bruce8866> 不客氣
+[20:56:12] [Server thread/INFO]: <bruce8866> 我地獄門沒點好妳先不要運
+[20:56:18] [Server thread/INFO]: <bruce8866> 不然也會被凋零砍死
+[20:56:21] [Server thread/INFO]: <LMY008117> k
+[20:56:46] [Server thread/INFO]: <bruce8866> ???
+[20:56:53] [Server thread/INFO]: <bruce8866> 哦烈焰神
+[21:00:58] [Server thread/INFO]: [bruce8866: Changed the block at -10075, 65, -3468]
+[21:03:48] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -10067.5, 63.0, -3866.5]
+[21:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[21:04:17] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -199.5, 200.0, -199.5]
+[21:05:37] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -1256.5, 200.0, -432.5]
+[21:06:13] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to 0.5, 200.0, 0.5]
+[21:06:51] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to 0.5, 200.0, 0.5]
+[21:09:14] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -10067.5, 63.0, -3466.5]
+[21:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:24:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[21:25:24] [Server thread/INFO]: <bruce8866> 好
+[21:25:29] [Server thread/INFO]: <bruce8866> 沒意外應該已經連好了
+[21:25:34] [Server thread/INFO]: <bruce8866> 站進去試試看
+[21:26:02] [Server thread/INFO]: <bruce8866> ?
+[21:26:31] [Server thread/INFO]: <bruce8866> ok?
+[21:26:37] [Server thread/INFO]: <LMY008117> ok
+[21:26:49] [Server thread/INFO]: <bruce8866> g;3u
+[21:26:52] [Server thread/INFO]: <bruce8866> 上面回來
+[21:28:05] [Server thread/INFO]: <LMY008117> 回來了
+[21:28:35] [Server thread/INFO]: <bruce8866> 打火石
+[21:28:37] [Server thread/INFO]: <bruce8866> 這兩個
+[21:28:53] [Server thread/INFO]: <bruce8866> 最下面
+[21:29:25] [Server thread/INFO]: <bruce8866> 可以引了
+[21:29:31] [Server thread/INFO]: <bruce8866> 不過eoe還是會從外側炸掉
+[21:29:36] [Server thread/INFO]: <bruce8866> 你可能要做一點保護
+[21:30:29] [Server thread/INFO]: <LMY008117> 我先蓋保護層嗎?
+[21:30:41] [Server thread/INFO]: <bruce8866> 掀蓋
+[21:30:54] [Server thread/INFO]: <bruce8866> 我甚至懷疑屋頂也要
+[21:32:06] [Server thread/INFO]: <bruce8866> 你這保護層
+[21:32:23] [Server thread/INFO]: <bruce8866> 保護不到螢光十
+[21:33:14] [Server thread/INFO]: <bruce8866> 不對阿
+[21:33:20] [Server thread/INFO]: <bruce8866> 當時不是說要用黑石
+[21:35:20] [Server thread/INFO]: <bruce8866> 用兩種建材好了
+[21:35:25] [Server thread/INFO]: <bruce8866> 不然只有黑石太醜
+[21:36:41] [Server thread/INFO]: <bruce8866> 你交替用四格為間隔吧
+[21:36:45] [Server thread/INFO]: <bruce8866> 一層一個顏色
+[21:38:50] [Server thread/INFO]: <bruce8866> 我現在簡直複製的越來越順手
+[21:39:10] [Server thread/INFO]: <bruce8866> 你海臨時不要給我用半專假裝成全專喔
+[21:39:14] [Server thread/INFO]: <bruce8866> 到時候很難拆
+[21:39:43] [Server thread/INFO]: <bruce8866> ??
+[21:39:49] [Server thread/INFO]: <bruce8866> 你是要怎樣花色
+[21:40:07] [Server thread/INFO]: <bruce8866> 我看不懂你這個
+[21:40:17] [Server thread/INFO]: <LMY008117> 一層四格
+[21:40:37] [Server thread/INFO]: <bruce8866> 這樣只有三格阿
+[21:50:40] [Server thread/INFO]: <bruce8866> 你這明明是一層兩格
+[21:50:44] [Server thread/INFO]: <bruce8866> 不過算了
+[21:50:56] [Server thread/INFO]: <bruce8866> 反正不要是一格就好
+[22:00:29] [Server thread/INFO]: <bruce8866> 你要保護完整阿
+[22:00:59] [Server thread/INFO]: <bruce8866> 這邊你沒包道
+[22:06:01] [Server thread/INFO]: bruce8866 was burnt to a crisp whilst fighting Blaze
+[22:06:09] [Server thread/INFO]: <bruce8866> >>/
+[22:06:51] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[22:06:51] [Server thread/INFO]: bruce8866 left the game
+[22:06:53] [Server thread/INFO]: bruce8866[/61.228.163.107:10908] logged in with entity id 84171 at (-33.5, 66.0, -35.5)
+[22:06:53] [Server thread/INFO]: bruce8866 joined the game
+[22:06:53] [Netty Server IO #6/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[22:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[22:07:27] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -1256.5, 128.0, -432.5]
+[22:09:16] [Server thread/INFO]: <bruce8866> ??
+[22:09:19] [Server thread/INFO]: <bruce8866> 李
+[22:09:24] [Server thread/INFO]: <bruce8866> 你沒包到側邊阿
+[22:09:36] [Server thread/INFO]: <LMY008117> 還沒開包
+[22:09:52] [Server thread/INFO]: <bruce8866> 你沒有要把它們包再一起?
+[22:10:09] [Server thread/INFO]: <bruce8866> 分開包走不過去欸
+[22:17:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1279, y=69, z=-417} class_2338{x=-1272, y=66, z=-416}
+[22:29:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1249, y=71, z=-434} class_2338{x=-1237, y=65, z=-416}
+[22:34:03] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[22:34:13] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[22:37:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1233, y=69, z=-447} class_2338{x=-1233, y=67, z=-439}
+[22:37:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1233, y=69, z=-447} class_2338{x=-1233, y=67, z=-439}
+[22:37:40] [Server thread/INFO]: <bruce8866> 今天差不多了
+[22:41:03] [Server thread/INFO]: <LMY008117> 88888
+[22:41:06] [Server thread/INFO]: <bruce8866> k
+[22:41:09] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[22:41:09] [Server thread/INFO]: LMY008117 left the game
+[22:41:18] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[22:41:18] [Server thread/INFO]: bruce8866 left the game

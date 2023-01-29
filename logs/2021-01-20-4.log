@@ -1,0 +1,855 @@
+[14:02:33] [main/INFO]: Loading for game Minecraft 1.16.2
+[14:02:34] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[14:02:34] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[14:02:34] [main/INFO]: [FabricLoader] Loading 50 mods: fabric-renderer-api-v1@0.3.0+8bcfced84e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, fabricloader@0.11.1, fabric-structure-api-v1@1.0.1+fb0d9b0e4e, bbor@2.4-1.16.3, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.7.0+432ea1884e, java@8, fabric-game-rule-api-v1@1.0.1+91555cd14e, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-rendering-fluids-v1@0.1.11+fb0d9b0e4e, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-renderer-registries-v1@2.1.0+e2862de64e, fabric-loot-tables-v1@1.0.1+432ea1884e, fabric@0.20.1+build.401-1.16, carpet@1.4.23, fabric-particles-v1@0.2.2+fb0d9b0e4e, fabric-networking-v0@0.1.10+e00ecb5f4e, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, minecraft@1.16.2, fabric-screen-handler-api-v1@1.1.0+872498414e, fabric-command-api-v1@1.0.8+5ce533984e, jankson@3.0.0+j1.2.0, fabric-tool-attribute-api-v1@1.2.2+ccce563e4e, fabric-renderer-indigo@0.4.0+8bcfced84e, org_apache_commons_commons-compress@1.19, fabric-item-api-v1@1.1.0+29679fd64e, fabric-events-interaction-v0@0.4.0+e2e6cdad4e, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-rendering-v0@1.1.0+534104904e, fabric-key-binding-api-v1@1.0.1+730711c64e, fabric-rendering-v1@1.3.0+432ea1884e, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.3.1+facf3bbf4e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, fabric-registry-sync-v0@0.4.5+fcdfdfa14e, fabric-commands-v0@0.2.0+52d308364e, textile_backup@2.0.0-1.16.2, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-object-builders-v0@0.7.0+432ea1884e
+[14:02:34] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[14:02:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/E:/Minecradfr%20server/1.16.4%20Spigot/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[14:02:43] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[14:02:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[14:02:44] [main/INFO]: Found new data pack fabric/fabric-tool-attribute-api-v1, loading it automatically
+[14:02:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:02:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:02:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:02:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:02:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:02:45] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1)
+[14:02:46] [Worker-Main-4/INFO]: Loaded 7 recipes
+[14:02:47] [Worker-Main-4/INFO]: Loaded 927 advancements
+[14:02:48] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[14:02:48] [Server thread/INFO]: Loading properties
+[14:02:48] [Server thread/INFO]: Default game type: SURVIVAL
+[14:02:48] [Server thread/INFO]: Generating keypair
+[14:02:48] [Server thread/INFO]: Starting Minecraft server on *:38126
+[14:02:48] [Server thread/INFO]: Using default channel type
+[14:02:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:02:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:02:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:02:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:02:49] [Server thread/INFO]: Preparing level "The World"
+[14:02:49] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: -41683371)
+[14:02:49] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: -41683371)
+[14:02:49] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: -41683371)
+[14:02:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:02:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:02:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:02:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:02:51] [Server thread/INFO]: Preparing spawn area: 0%
+[14:02:53] [Server thread/INFO]: Time elapsed: 3552 ms
+[14:02:53] [Server thread/INFO]: Done (3.955s)! For help, type "help"
+[14:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[14:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
+[14:03:43] [Server thread/INFO]: bruce8866[/61.228.162.196:8567] logged in with entity id 788 at (-228.16410155805724, 68.0, -228.8823781271694)
+[14:03:43] [Server thread/INFO]: bruce8866 joined the game
+[14:03:45] [Netty Server IO #2/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[14:04:18] [Server thread/INFO]: [Textile Backup] Backup started by: bruce8866 on: 20.01.2021_14-04-18
+[14:04:18] [Server thread/INFO]: [Textile Backup] Saving server...
+[14:04:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[14:04:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:04:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
+[14:04:20] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[14:04:20] [Server thread/WARN]: bruce8866 moved too quickly! 0.29557848828420674,0.5448140555330525,10.049971959456144
+[14:04:38] [Server thread/INFO]: [bruce8866: bruce8866 subscribed to tps.]
+[14:04:53] [Server thread/INFO]: [bruce8866: bruce8866 unsubscribed from tps.]
+[14:06:08] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[14:08:08] [Server thread/INFO]: OTARO[/180.217.52.186:1285] logged in with entity id 1945 at (-662.4592114112547, 48.5, -139.44059203500393)
+[14:08:08] [Server thread/INFO]: OTARO joined the game
+[14:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[14:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14:09:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[14:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:10:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:12:21] [Server thread/INFO]: OTARO lost connection: Disconnected
+[14:12:21] [Server thread/INFO]: OTARO left the game
+[14:14:25] [Server thread/INFO]: scrx1316[/180.217.52.186:1434] logged in with entity id 4486 at (-617.4567201525149, 67.0, -88.39349965551652)
+[14:14:25] [Server thread/INFO]: scrx1316 joined the game
+[14:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[14:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[14:17:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[14:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[14:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[14:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[14:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2740ms or 54 ticks behind
+[14:19:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[14:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[14:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
+[14:20:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
+[14:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[14:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4799ms or 95 ticks behind
+[14:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2874ms or 57 ticks behind
+[14:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[14:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[14:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[14:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[14:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[14:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[14:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[14:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[14:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[14:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[14:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14:24:44] [Server thread/INFO]: [bruce8866: bruce8866 subscribed to tps.]
+[14:24:55] [Server thread/INFO]: Villager class_1646['Villager'/2070, l='ServerLevel[The World]', x=-650.70, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[14:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:27:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:30:26] [Server thread/INFO]: Villager class_1646['Villager'/2072, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[14:36:23] [Server thread/INFO]: scrx1316 lost connection: Disconnected
+[14:36:23] [Server thread/INFO]: scrx1316 left the game
+[14:38:20] [Server thread/INFO]: Villager class_1646['Villager'/2066, l='ServerLevel[The World]', x=-650.70, y=56.00, z=-93.30] died, message: 'Villager was squished too much'
+[14:43:38] [Server thread/INFO]: Villager class_1646['Villager'/2067, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[14:47:22] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[14:47:22] [Server thread/INFO]: bruce8866 left the game
+[14:51:12] [Server thread/INFO]: bruce8866[/61.228.162.196:10213] logged in with entity id 13187 at (-657.9760450329168, 48.5, -145.77597539044325)
+[14:51:12] [Server thread/INFO]: bruce8866 joined the game
+[14:51:14] [Netty Server IO #3/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[14:51:29] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[14:51:29] [Server thread/INFO]: bruce8866 left the game
+[14:59:56] [Server thread/INFO]: bruce8866[/61.228.162.196:10671] logged in with entity id 13539 at (-669.4803817596347, 48.5, -142.55682224019347)
+[14:59:56] [Server thread/INFO]: bruce8866 joined the game
+[14:59:57] [Netty Server IO #6/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[15:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[15:01:40] [Server thread/WARN]: bruce8866 moved too quickly! 801.635750722129,9.504799122994086,-1164.830893627733
+[15:01:40] [Server thread/WARN]: bruce8866 moved too quickly! 801.635750722129,9.504799122994086,-1164.830893627733
+[15:01:40] [Server thread/WARN]: bruce8866 moved too quickly! 801.635750722129,9.504799122994086,-1164.830893627733
+[15:01:40] [Server thread/WARN]: Entity class_3222['bruce8866'/13539, l='ServerLevel[The World]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[15:01:42] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:01:42] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9113ms or 182 ticks behind
+[15:01:53] [Server thread/WARN]: bruce8866 moved too quickly! -17.826140218511682,5.258600892010961,-1.0295962409315709
+[15:01:55] [Server thread/WARN]: bruce8866 moved too quickly! -18.396623434550627,-2.1516950239983146,-0.8315736304576649
+[15:02:13] [Server thread/INFO]: [bruce8866: ]
+[15:02:13] [Server thread/INFO]: [bruce8866: Avg. server tick time: 13.361ms]
+[15:02:13] [Server thread/INFO]: [bruce8866: Network: 0.302ms]
+[15:02:13] [Server thread/INFO]: [bruce8866: Async Tasks: 0.040ms]
+[15:02:13] [Server thread/INFO]: [bruce8866: overworld:]
+[15:02:13] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 1.372ms]
+[15:02:13] [Server thread/INFO]: [bruce8866:  - Blocks: 0.037ms]
+[15:02:13] [Server thread/INFO]: [bruce8866:  - Environment: 0.018ms]
+[15:02:13] [Server thread/INFO]: [bruce8866: the_nether:]
+[15:02:13] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 0.024ms]
+[15:02:13] [Server thread/INFO]: [bruce8866: the_end:]
+[15:02:13] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 3.413ms]
+[15:02:13] [Server thread/INFO]: [bruce8866:  - Entities: 6.521ms]
+[15:02:13] [Server thread/INFO]: [bruce8866:  - Block Entities: 1.055ms]
+[15:02:13] [Server thread/INFO]: [bruce8866: The Rest, whatever that might be: 0.580ms]
+[15:03:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 20.01.2021_15-03-43
+[15:03:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[15:03:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[15:03:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:03:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:03:48] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[15:03:48] [Server thread/WARN]: bruce8866 moved too quickly! -4.067984317773991,-0.8067053084711517,-16.878889948323437
+[15:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5960ms or 119 ticks behind
+[15:04:11] [Server thread/INFO]: [bruce8866: ]
+[15:04:11] [Server thread/INFO]: [bruce8866: Avg. server tick time: 48.329ms]
+[15:04:11] [Server thread/INFO]: [bruce8866: Network: 0.136ms]
+[15:04:11] [Server thread/INFO]: [bruce8866: Async Tasks: 0.629ms]
+[15:04:11] [Server thread/INFO]: [bruce8866: overworld:]
+[15:04:11] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 1.795ms]
+[15:04:11] [Server thread/INFO]: [bruce8866:  - Blocks: 0.077ms]
+[15:04:11] [Server thread/INFO]: [bruce8866:  - Entities: 44.001ms]
+[15:04:11] [Server thread/INFO]: [bruce8866:  - Block Entities: 1.241ms]
+[15:04:11] [Server thread/INFO]: [bruce8866: the_end:]
+[15:04:11] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 0.061ms]
+[15:04:11] [Server thread/INFO]: [bruce8866:  - Unloading: 0.137ms]
+[15:04:11] [Server thread/INFO]: [bruce8866:  - Entities: 0.023ms]
+[15:04:11] [Server thread/INFO]: [bruce8866: The Rest, whatever that might be: 0.228ms]
+[15:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:05:56] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[15:06:36] [Server thread/INFO]: [bruce8866: ]
+[15:06:36] [Server thread/INFO]: [bruce8866: Avg. server tick time: 44.452ms]
+[15:06:36] [Server thread/INFO]: [bruce8866: Network: 0.127ms]
+[15:06:36] [Server thread/INFO]: [bruce8866: Async Tasks: 0.029ms]
+[15:06:36] [Server thread/INFO]: [bruce8866: overworld:]
+[15:06:36] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 1.729ms]
+[15:06:36] [Server thread/INFO]: [bruce8866:  - Blocks: 0.089ms]
+[15:06:36] [Server thread/INFO]: [bruce8866:  - Entities: 40.959ms]
+[15:06:36] [Server thread/INFO]: [bruce8866:  - Block Entities: 1.301ms]
+[15:06:36] [Server thread/INFO]: [bruce8866: The Rest, whatever that might be: 0.219ms]
+[15:10:59] [Server thread/INFO]: [bruce8866: ]
+[15:10:59] [Server thread/INFO]: [bruce8866: Avg. server tick time: 41.277ms]
+[15:10:59] [Server thread/INFO]: [bruce8866: Network: 0.120ms]
+[15:10:59] [Server thread/INFO]: [bruce8866: Async Tasks: 0.173ms]
+[15:10:59] [Server thread/INFO]: [bruce8866: overworld:]
+[15:10:59] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 1.931ms]
+[15:10:59] [Server thread/INFO]: [bruce8866:  - Blocks: 0.711ms]
+[15:10:59] [Server thread/INFO]: [bruce8866:  - Entities: 36.910ms]
+[15:10:59] [Server thread/INFO]: [bruce8866:  - Block Entities: 1.186ms]
+[15:10:59] [Server thread/INFO]: [bruce8866: The Rest, whatever that might be: 0.246ms]
+[15:11:31] [Server thread/INFO]: [bruce8866: ]
+[15:11:31] [Server thread/INFO]: [bruce8866: Average tick time: 44.145ms]
+[15:11:31] [Server thread/INFO]: [bruce8866: Top 10 counts:]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - chest in overworld: 634.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 401.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - villager in overworld: 169.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - cat in overworld: 103.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - item_frame in overworld: 99.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 89.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - cow in overworld: 74.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 68.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - chicken in overworld: 61.0]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - pig in overworld: 46.0]
+[15:11:31] [Server thread/INFO]: [bruce8866: Top 10 CPU hogs:]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - villager in overworld: 11.20ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 8.31ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - zombie in overworld: 2.63ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - cat in overworld: 2.58ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - cow in overworld: 2.07ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 1.88ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - horse in overworld: 1.19ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - chicken in overworld: 1.00ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 0.94ms]
+[15:11:31] [Server thread/INFO]: [bruce8866:  - sheep in overworld: 0.85ms]
+[15:13:37] [Server thread/INFO]: [bruce8866: Started debug profiling]
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld.tick.entities' took aprox 100.9944 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld.tick' took aprox 114.3561 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld' took aprox 116.3969 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels' took aprox 117.8117 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick' took aprox 124.9524 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root' took aprox 125.1786 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld.tick.entities' took aprox 102.4367 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld.tick' took aprox 111.3301 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld' took aprox 112.1691 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels' took aprox 113.1329 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick' took aprox 114.4198 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root' took aprox 120.3426 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld.tick' took aprox 108.9039 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels.ServerLevel[The World] minecraft:overworld' took aprox 109.2923 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick.levels' took aprox 110.6079 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root.tick' took aprox 111.5283 ms
+[15:13:37] [Server thread/WARN]: Something's taking too long! 'root' took aprox 112.578 ms
+[15:13:38] [Server thread/WARN]: Something's taking too long! 'root' took aprox 100.415 ms
+[15:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:13:56] [Server thread/INFO]: [bruce8866: Stopped debug profiling after 18.98 seconds and 308 ticks (16.22 ticks per second)]
+[15:13:56] [Server thread/WARN]: Something's taking too long! 'root.nextTickWait./debug stop' took aprox 350.9579 ms
+[15:13:56] [Server thread/WARN]: Something's taking too long! 'root.nextTickWait' took aprox 352.2328 ms
+[15:13:56] [Server thread/WARN]: Something's taking too long! 'root' took aprox 405.5185 ms
+[15:14:08] [Server thread/INFO]: [bruce8866: Started debug profiling]
+[15:14:15] [Server thread/INFO]: [bruce8866: Stopped debug profiling after 6.73 seconds and 131 ticks (19.48 ticks per second)]
+[15:14:15] [Server thread/WARN]: Something's taking too long! 'root.nextTickWait./debug stop' took aprox 193.7259 ms
+[15:14:15] [Server thread/WARN]: Something's taking too long! 'root.nextTickWait' took aprox 194.2032 ms
+[15:14:15] [Server thread/WARN]: Something's taking too long! 'root' took aprox 251.5137 ms
+[15:24:18] [Server thread/INFO]: [bruce8866: ]
+[15:24:18] [Server thread/INFO]: [bruce8866: commandPlayer]
+[15:24:18] [Server thread/INFO]: [bruce8866: Enables /player command to control/spawn players]
+[15:24:18] [Server thread/INFO]: [bruce8866: Tags: [command]]
+[15:24:18] [Server thread/INFO]: [bruce8866: Current value: ops (default value)]
+[15:24:18] [Server thread/INFO]: [bruce8866: Options: [ true false ops ]]
+[15:24:28] [Server thread/INFO]: [bruce8866: commandPlayer: true, [change permanently?]]
+[15:24:31] [Server thread/INFO]: [bruce8866: Rule commandPlayer will now default to true]
+[15:26:23] [Server thread/INFO]: [bruce8866: Current Carpet Mod Settings:]
+[15:26:23] [Server thread/INFO]: [bruce8866: - commandPlayer [true] [false] [ops]]
+[15:26:23] [Server thread/INFO]: [bruce8866: Carpet Mod version: 1.4.23+v210115]
+[15:26:23] [Server thread/INFO]: [bruce8866: Browse Categories:
+[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [tnt] [bugfix] [creative] [command]]
+[15:26:25] [Server thread/INFO]: [bruce8866: All Carpet Mod Settings:]
+[15:26:25] [Server thread/INFO]: [bruce8866: - antiCheatDisabled [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - carpets [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - chainStone [true] [false] [stick_to_all]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - cleanLogs [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - combineXPOrbs [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandDistance [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandDraw [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandInfo [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandLog [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandPerimeterInfo [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandPlayer [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandProfile [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandScript [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandScriptACE [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandSpawn [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandTick [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - commandTrackAI [true] [false] [ops]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - creativeFlyDrag [0.09]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - creativeFlySpeed [1.0]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - creativeNoClip [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - ctrlQCraftingFix [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - customMOTD [_]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - defaultLoggers [none] [tps] [mobcaps,tps]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - desertShrubs [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - explosionNoBlockDamage [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - extremeBehaviours [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - fillLimit [32768] [250000] [1000000]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - fillUpdates [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - flatWorldStructureSpawning [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - flippinCactus [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - fogOff [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - forceloadLimit [256]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - hardcodeTNTangle [-1] [-1.0]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - hopperCounters [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - huskSpawningInTemples [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - interactionUpdates [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - lagFreeSpawning [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - language [none] [zh_cn] [zh_tw]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - leadFix [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - lightEngineMaxBatchSize [5] [50] [100] [200]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - maxEntityCollisions [0] [1] [20]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - mergeTNT [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - missingTools [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - movableBlockEntities [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - onePlayerSleeping [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - optimizedTNT [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - persistentParrots [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - piglinsSpawningInBastions [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - placementRotationFix [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - portalCreativeDelay [1] [40] [80] [72000]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - portalSurvivalDelay [1] [40] [80] [72000]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - pushLimit [10] [12] [14] [100]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - quasiConnectivity [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - railPowerLimit [9] [15] [30]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - renewableBlackstone [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - renewableCoral [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - renewableSponges [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - rotatorBlock [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - scriptsAutoload [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - shulkerSpawningInEndCities [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - silverFishDropGravel [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - smoothClientAnimations [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - spawnChunksSize [0] [11]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - stackableShulkerBoxes [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - summonNaturalLightning [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - superSecretSetting [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - tntDoNotUpdate [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - tntPrimerMomentumRemoved [true] [false]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - tntRandomRange [-1] [-1.0]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - viewDistance [0] [12] [16] [32]]
+[15:26:25] [Server thread/INFO]: [bruce8866: - xpNoCooldown [true] [false]]
+[15:27:02] [Server thread/INFO]: [bruce8866: language: zh_tw, [設為預設?]]
+[15:27:08] [Server thread/INFO]: [bruce8866: 規則語言 (language)將會被默認設置為zh_tw]
+[15:27:11] [Server thread/INFO]: [bruce8866: 所有的Carpet Mod選項:]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 關閉伺服器作弊檢測 (antiCheatDisabled) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 放置地毯顯示進階數據 (carpets) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - chainStone [true] [false] [stick_to_all]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - cleanLogs [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 合併小經驗球 (combineXPOrbs) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 距離測定 (commandDistance) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 繪製圖形 (commandDraw) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 獲取方塊進階資訊 (commandInfo) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 遊戲數據追蹤器 (commandLog) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 刷怪區域追蹤器 (commandPerimeterInfo) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 機器人控制 (commandPlayer) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 遊戲性能監視器 (commandProfile) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 地毯腳本控制器 (commandScript) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 地毯腳本使用權限 (commandScriptACE) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 刷怪追蹤器 (commandSpawn) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 遊戲時鐘控制器 (commandTick) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - AI追蹤器 (commandTrackAI) [true] [false] [ops]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 創造飛行阻力系數 (creativeFlyDrag) [0.09]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 創造飛行速度系數 (creativeFlySpeed) [1.0]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 創造玩家無碰撞檢測 (creativeNoClip) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - MOTD更改 (customMOTD) [_]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 默認開啟的遊戲數據追蹤器 (defaultLoggers) [none] [tps] [mobcaps,tps]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 樹苗在沙漠中乾枯 (desertShrubs) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 爆炸不破壞方塊 (explosionNoBlockDamage) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 隨機參數極端化 (extremeBehaviours) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - fill/clone上限更改 (fillLimit) [32768] [250000] [1000000]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - fill更新設置 (fillUpdates) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 特定建築怪在超平坦世界生成 (flatWorldStructureSpawning) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 仙人掌扳手 (flippinCactus) [true] [false]]
+[15:27:11] [Server thread/INFO]: [bruce8866: - 關閉霧氣 (fogOff) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 永加載區塊上限更改 (forceloadLimit) [256]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 強制TNT角度 (hardcodeTNTangle) [-1] [-1.0]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 漏斗計數器 (hopperCounters) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 屍殼在沙漠神殿裡生成 (huskSpawningInTemples) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 放置方塊產生更新 (interactionUpdates) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 延遲自然生成 (lagFreeSpawning) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 語言 (language) [none] [zh_cn] [zh_tw]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 栓繩修復 (leadFix) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - lightEngineMaxBatchSize [5] [50] [100] [200]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 最大實體擠壓數量 (maxEntityCollisions) [0] [1] [20]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 合併TNT (mergeTNT) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 工具缺失修復 (missingTools) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 容器方塊移動 (movableBlockEntities) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 單個玩家睡覺跳過夜晚 (onePlayerSleeping) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - TNT優化 (optimizedTNT) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 鸚鵡停留 (persistentParrots) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - piglinsSpawningInBastions [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 放置旋轉問題修復 (placementRotationFix) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 創造模式玩家地獄門傳送延遲 (portalCreativeDelay) [1] [40] [80] [72000]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 生存模式地獄門傳送延遲 (portalSurvivalDelay) [1] [40] [80] [72000]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 自訂義推動上限 (pushLimit) [10] [12] [14] [100]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 半連接激活開關 (quasiConnectivity) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 自訂義動力鐵軌激活距離 (railPowerLimit) [9] [15] [30]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - renewableBlackstone [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 可再生珊瑚 (renewableCoral) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 可再生海綿 (renewableSponges) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 仙人掌扳手發射器版 (rotatorBlock) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - Scarpet腳本自動加載 (scriptsAutoload) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 可重生界伏蚌 (shulkerSpawningInEndCities) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 蠹魚鑽出方塊掉落礫石 (silverFishDropGravel) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 更平暢玩家端動畫 (smoothClientAnimations) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 出生點永加載區塊半徑 (spawnChunksSize) [0] [11]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 可堆疊界伏盒 (stackableShulkerBoxes) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 召喚閃電自然化 (summonNaturalLightning) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - superSecretSetting [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - TNT放置時不會被更新 (tntDoNotUpdate) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 移除TNT點燃時隨機動量 (tntPrimerMomentumRemoved) [true] [false]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - TNT爆炸範圍設置 (tntRandomRange) [-1] [-1.0]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 自訂義視野 (viewDistance) [0] [12] [16] [32]]
+[15:27:12] [Server thread/INFO]: [bruce8866: - 經驗球吸收無冷卻 (xpNoCooldown) [true] [false]]
+[15:27:17] [Server thread/INFO]: [bruce8866: flippinCactus: true, [設為預設?]]
+[15:27:19] [Server thread/INFO]: [bruce8866: 規則仙人掌扳手 (flippinCactus)將會被默認設置為true]
+[15:27:43] [Server thread/INFO]: [bruce8866: ]
+[15:27:43] [Server thread/INFO]: [bruce8866: 更平暢玩家端動畫 (smoothClientAnimations)]
+[15:27:43] [Server thread/INFO]: [bruce8866: 降低TPS設置時可以使玩家端動畫更加平暢]
+[15:27:43] [Server thread/INFO]: [bruce8866:  僅在單人模式中生效，並且會降低玩家端運行速度]
+[15:27:43] [Server thread/INFO]: [bruce8866: 分類: [創造用], [生存用], [玩家端]]
+[15:27:43] [Server thread/INFO]: [bruce8866: 當前的值: false (default value)]
+[15:27:43] [Server thread/INFO]: [bruce8866: Options: [ true false ]]
+[15:27:56] [Server thread/INFO]: [bruce8866: ]
+[15:27:56] [Server thread/INFO]: [bruce8866: 放置旋轉問題修復 (placementRotationFix)]
+[15:27:56] [Server thread/INFO]: [bruce8866: 修復玩家放置方塊時快速轉身造成的問題]
+[15:27:56] [Server thread/INFO]: [bruce8866: 分類: [BUG修復]]
+[15:27:56] [Server thread/INFO]: [bruce8866: 當前的值: false (default value)]
+[15:27:56] [Server thread/INFO]: [bruce8866: Options: [ true false ]]
+[15:28:06] [Server thread/INFO]: [bruce8866: placementRotationFix: true, [設為預設?]]
+[15:28:12] [Server thread/INFO]: [bruce8866: 規則放置旋轉問題修復 (placementRotationFix)將會被默認設置為true]
+[15:28:15] [Server thread/INFO]: [bruce8866: Carpet Mod中符合"BUG修復"的選項：:]
+[15:28:15] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[15:28:15] [Server thread/INFO]: [bruce8866: - 栓繩修復 (leadFix) [true] [false]]
+[15:28:15] [Server thread/INFO]: [bruce8866: - 放置旋轉問題修復 (placementRotationFix) [true] [false]]
+[15:28:22] [Server thread/INFO]: [bruce8866: ctrlQCraftingFix: true, [設為預設?]]
+[15:28:24] [Server thread/INFO]: [bruce8866: 規則ctrlQ合成修復 (ctrlQCraftingFix)將會被默認設置為true]
+[15:28:27] [Server thread/INFO]: [bruce8866: leadFix: true, [設為預設?]]
+[15:28:30] [Server thread/INFO]: [bruce8866: 規則栓繩修復 (leadFix)將會被默認設置為true]
+[15:28:32] [Server thread/INFO]: [bruce8866: Carpet Mod中符合"BUG修復"的選項：:]
+[15:28:32] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[15:28:32] [Server thread/INFO]: [bruce8866: - 栓繩修復 (leadFix) [true] [false]]
+[15:28:32] [Server thread/INFO]: [bruce8866: - 放置旋轉問題修復 (placementRotationFix) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: 所有的Carpet Mod選項:]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 關閉伺服器作弊檢測 (antiCheatDisabled) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 放置地毯顯示進階數據 (carpets) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - chainStone [true] [false] [stick_to_all]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - cleanLogs [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 合併小經驗球 (combineXPOrbs) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 距離測定 (commandDistance) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 繪製圖形 (commandDraw) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 獲取方塊進階資訊 (commandInfo) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 遊戲數據追蹤器 (commandLog) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 刷怪區域追蹤器 (commandPerimeterInfo) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 機器人控制 (commandPlayer) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 遊戲性能監視器 (commandProfile) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 地毯腳本控制器 (commandScript) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 地毯腳本使用權限 (commandScriptACE) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 刷怪追蹤器 (commandSpawn) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 遊戲時鐘控制器 (commandTick) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - AI追蹤器 (commandTrackAI) [true] [false] [ops]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 創造飛行阻力系數 (creativeFlyDrag) [0.09]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 創造飛行速度系數 (creativeFlySpeed) [1.0]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 創造玩家無碰撞檢測 (creativeNoClip) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - MOTD更改 (customMOTD) [_]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 默認開啟的遊戲數據追蹤器 (defaultLoggers) [none] [tps] [mobcaps,tps]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 樹苗在沙漠中乾枯 (desertShrubs) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 爆炸不破壞方塊 (explosionNoBlockDamage) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 隨機參數極端化 (extremeBehaviours) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - fill/clone上限更改 (fillLimit) [32768] [250000] [1000000]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - fill更新設置 (fillUpdates) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 特定建築怪在超平坦世界生成 (flatWorldStructureSpawning) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 仙人掌扳手 (flippinCactus) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 關閉霧氣 (fogOff) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 永加載區塊上限更改 (forceloadLimit) [256]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 強制TNT角度 (hardcodeTNTangle) [-1] [-1.0]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 漏斗計數器 (hopperCounters) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 屍殼在沙漠神殿裡生成 (huskSpawningInTemples) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 放置方塊產生更新 (interactionUpdates) [true] [false]]
+[15:28:38] [Server thread/INFO]: [bruce8866: - 延遲自然生成 (lagFreeSpawning) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 語言 (language) [none] [zh_cn] [zh_tw]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 栓繩修復 (leadFix) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - lightEngineMaxBatchSize [5] [50] [100] [200]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 最大實體擠壓數量 (maxEntityCollisions) [0] [1] [20]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 合併TNT (mergeTNT) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 工具缺失修復 (missingTools) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 容器方塊移動 (movableBlockEntities) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 單個玩家睡覺跳過夜晚 (onePlayerSleeping) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - TNT優化 (optimizedTNT) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 鸚鵡停留 (persistentParrots) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - piglinsSpawningInBastions [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 放置旋轉問題修復 (placementRotationFix) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 創造模式玩家地獄門傳送延遲 (portalCreativeDelay) [1] [40] [80] [72000]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 生存模式地獄門傳送延遲 (portalSurvivalDelay) [1] [40] [80] [72000]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 自訂義推動上限 (pushLimit) [10] [12] [14] [100]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 半連接激活開關 (quasiConnectivity) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 自訂義動力鐵軌激活距離 (railPowerLimit) [9] [15] [30]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - renewableBlackstone [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 可再生珊瑚 (renewableCoral) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 可再生海綿 (renewableSponges) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 仙人掌扳手發射器版 (rotatorBlock) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - Scarpet腳本自動加載 (scriptsAutoload) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 可重生界伏蚌 (shulkerSpawningInEndCities) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 蠹魚鑽出方塊掉落礫石 (silverFishDropGravel) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 更平暢玩家端動畫 (smoothClientAnimations) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 出生點永加載區塊半徑 (spawnChunksSize) [0] [11]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 可堆疊界伏盒 (stackableShulkerBoxes) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 召喚閃電自然化 (summonNaturalLightning) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - superSecretSetting [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - TNT放置時不會被更新 (tntDoNotUpdate) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 移除TNT點燃時隨機動量 (tntPrimerMomentumRemoved) [true] [false]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - TNT爆炸範圍設置 (tntRandomRange) [-1] [-1.0]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 自訂義視野 (viewDistance) [0] [12] [16] [32]]
+[15:28:39] [Server thread/INFO]: [bruce8866: - 經驗球吸收無冷卻 (xpNoCooldown) [true] [false]]
+[15:29:39] [Server thread/INFO]: [bruce8866: ]
+[15:29:39] [Server thread/INFO]: [bruce8866: 遊戲性能監視器 (commandProfile)]
+[15:29:39] [Server thread/INFO]: [bruce8866: 啟用/profile命令以監視遊戲性能]
+[15:29:39] [Server thread/INFO]: [bruce8866:  /tick命令功能的部分增強版]
+[15:29:39] [Server thread/INFO]: [bruce8866: 分類: [指令]]
+[15:29:39] [Server thread/INFO]: [bruce8866: 當前的值: true (default value)]
+[15:29:39] [Server thread/INFO]: [bruce8866: Options: [ true false ops ]]
+[15:32:55] [Server thread/INFO]: [bruce8866: ]
+[15:32:55] [Server thread/INFO]: [bruce8866: Average tick time: 38.511ms]
+[15:32:55] [Server thread/INFO]: [bruce8866: Top 10 counts:]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - chest in overworld: 629.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 401.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - villager in overworld: 157.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - cat in overworld: 103.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - item_frame in overworld: 99.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 89.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 70.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - cow in overworld: 68.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - chicken in overworld: 46.0]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - furnace in overworld: 45.0]
+[15:32:55] [Server thread/INFO]: [bruce8866: Top 10 CPU hogs:]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 8.35ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - villager in overworld: 6.43ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - zombie in overworld: 2.79ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 2.31ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - cat in overworld: 2.28ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - cow in overworld: 2.08ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - horse in overworld: 0.94ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 0.83ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - pig in overworld: 0.81ms]
+[15:32:55] [Server thread/INFO]: [bruce8866:  - sheep in overworld: 0.78ms]
+[15:35:19] [Server thread/INFO]: Villager class_1646['Villager'/15210, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[15:35:43] [Server thread/INFO]: [bruce8866: 所有的Carpet Mod選項:]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 關閉伺服器作弊檢測 (antiCheatDisabled) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 放置地毯顯示進階數據 (carpets) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - chainStone [true] [false] [stick_to_all]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - cleanLogs [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 合併小經驗球 (combineXPOrbs) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 距離測定 (commandDistance) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 繪製圖形 (commandDraw) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 獲取方塊進階資訊 (commandInfo) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 遊戲數據追蹤器 (commandLog) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 刷怪區域追蹤器 (commandPerimeterInfo) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 機器人控制 (commandPlayer) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 遊戲性能監視器 (commandProfile) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 地毯腳本控制器 (commandScript) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 地毯腳本使用權限 (commandScriptACE) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 刷怪追蹤器 (commandSpawn) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 遊戲時鐘控制器 (commandTick) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - AI追蹤器 (commandTrackAI) [true] [false] [ops]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 創造飛行阻力系數 (creativeFlyDrag) [0.09]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 創造飛行速度系數 (creativeFlySpeed) [1.0]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 創造玩家無碰撞檢測 (creativeNoClip) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - MOTD更改 (customMOTD) [_]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 默認開啟的遊戲數據追蹤器 (defaultLoggers) [none] [tps] [mobcaps,tps]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 樹苗在沙漠中乾枯 (desertShrubs) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 爆炸不破壞方塊 (explosionNoBlockDamage) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 隨機參數極端化 (extremeBehaviours) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - fill/clone上限更改 (fillLimit) [32768] [250000] [1000000]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - fill更新設置 (fillUpdates) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 特定建築怪在超平坦世界生成 (flatWorldStructureSpawning) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 仙人掌扳手 (flippinCactus) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 關閉霧氣 (fogOff) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 永加載區塊上限更改 (forceloadLimit) [256]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 強制TNT角度 (hardcodeTNTangle) [-1] [-1.0]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 漏斗計數器 (hopperCounters) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 屍殼在沙漠神殿裡生成 (huskSpawningInTemples) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 放置方塊產生更新 (interactionUpdates) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 延遲自然生成 (lagFreeSpawning) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 語言 (language) [none] [zh_cn] [zh_tw]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 栓繩修復 (leadFix) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - lightEngineMaxBatchSize [5] [50] [100] [200]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 最大實體擠壓數量 (maxEntityCollisions) [0] [1] [20]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 合併TNT (mergeTNT) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 工具缺失修復 (missingTools) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 容器方塊移動 (movableBlockEntities) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 單個玩家睡覺跳過夜晚 (onePlayerSleeping) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - TNT優化 (optimizedTNT) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 鸚鵡停留 (persistentParrots) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - piglinsSpawningInBastions [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 放置旋轉問題修復 (placementRotationFix) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 創造模式玩家地獄門傳送延遲 (portalCreativeDelay) [1] [40] [80] [72000]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 生存模式地獄門傳送延遲 (portalSurvivalDelay) [1] [40] [80] [72000]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 自訂義推動上限 (pushLimit) [10] [12] [14] [100]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 半連接激活開關 (quasiConnectivity) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 自訂義動力鐵軌激活距離 (railPowerLimit) [9] [15] [30]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - renewableBlackstone [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 可再生珊瑚 (renewableCoral) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 可再生海綿 (renewableSponges) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 仙人掌扳手發射器版 (rotatorBlock) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - Scarpet腳本自動加載 (scriptsAutoload) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 可重生界伏蚌 (shulkerSpawningInEndCities) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 蠹魚鑽出方塊掉落礫石 (silverFishDropGravel) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 更平暢玩家端動畫 (smoothClientAnimations) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 出生點永加載區塊半徑 (spawnChunksSize) [0] [11]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 可堆疊界伏盒 (stackableShulkerBoxes) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 召喚閃電自然化 (summonNaturalLightning) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - superSecretSetting [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - TNT放置時不會被更新 (tntDoNotUpdate) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 移除TNT點燃時隨機動量 (tntPrimerMomentumRemoved) [true] [false]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - TNT爆炸範圍設置 (tntRandomRange) [-1] [-1.0]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 自訂義視野 (viewDistance) [0] [12] [16] [32]]
+[15:35:43] [Server thread/INFO]: [bruce8866: - 經驗球吸收無冷卻 (xpNoCooldown) [true] [false]]
+[15:35:56] [Server thread/INFO]: [bruce8866: Spawning spaces around [ -674, 52, -141 ]:]
+[15:35:56] [Server thread/INFO]: [bruce8866:   potential in-liquid: 8438]
+[15:35:56] [Server thread/INFO]: [bruce8866:   potential on-ground: 64852]
+[15:36:33] [Server thread/INFO]: [bruce8866: Spawning spaces around [ -657, 48, -130 ]:]
+[15:36:33] [Server thread/INFO]: [bruce8866:   potential in-liquid: 25521]
+[15:36:33] [Server thread/INFO]: [bruce8866:   potential on-ground: 63846]
+[15:36:37] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -656.5, 48.0, -129.5]
+[15:36:40] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -673.5, 52.0, -140.5]
+[15:36:44] [Server thread/INFO]: [bruce8866: Spawning spaces around [ -674, 52, -141 ]:]
+[15:36:44] [Server thread/INFO]: [bruce8866:   potential in-liquid: 8438]
+[15:36:44] [Server thread/INFO]: [bruce8866:   potential on-ground: 64852]
+[15:36:48] [Server thread/INFO]: [bruce8866: Spawning spaces around [ -673, 48, -143 ]:]
+[15:36:48] [Server thread/INFO]: [bruce8866:   potential in-liquid: 7817]
+[15:36:48] [Server thread/INFO]: [bruce8866:   potential on-ground: 64512]
+[15:36:49] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -672.5, 48.0, -142.5]
+[15:38:19] [Server thread/INFO]: Alex[local] logged in with entity id 24952 at (-641.6999999880791, 15.0, -80.30000001192093)
+[15:38:19] [Server thread/INFO]: Alex joined the game
+[15:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:40:36] [Server thread/INFO]: Villager class_1646['Villager'/15214, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.30] died, message: 'Villager was squished too much'
+[15:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[15:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[15:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[15:43:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[15:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[15:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[15:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
+[15:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
+[15:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[15:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[15:45:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
+[15:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[15:46:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
+[15:46:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:47:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:47:43] [Server thread/INFO]: [bruce8866: Spawning spaces around [ -684, 48, -145 ]:]
+[15:47:43] [Server thread/INFO]: [bruce8866:   potential in-liquid: 4123]
+[15:47:43] [Server thread/INFO]: [bruce8866:   potential on-ground: 63772]
+[15:47:46] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -683.5, 48.0, -144.5]
+[15:47:52] [Server thread/INFO]: [bruce8866: Spawning spaces around [ -684, 48, -145 ]:]
+[15:47:52] [Server thread/INFO]: [bruce8866:   potential in-liquid: 4123]
+[15:47:52] [Server thread/INFO]: [bruce8866:   potential on-ground: 63784]
+[15:47:54] [Server thread/INFO]: [bruce8866: Teleported bruce8866 to -683.5, 48.0, -144.5]
+[15:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:52:06] [Server thread/INFO]: [bruce8866: ]
+[15:52:06] [Server thread/INFO]: [bruce8866: Average tick time: 51.709ms]
+[15:52:06] [Server thread/INFO]: [bruce8866: Top 10 counts:]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - chest in overworld: 637.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 401.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - villager in overworld: 170.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - item_frame in overworld: 99.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - cat in overworld: 99.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - cow in overworld: 91.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 89.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - chicken in overworld: 86.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 70.0]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - pig in overworld: 64.0]
+[15:52:06] [Server thread/INFO]: [bruce8866: Top 10 CPU hogs:]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - villager in overworld: 11.95ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 8.47ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - zombie in overworld: 3.42ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - cat in overworld: 2.52ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - cow in overworld: 2.23ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 2.08ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - chicken in overworld: 1.21ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - horse in overworld: 1.17ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 1.01ms]
+[15:52:06] [Server thread/INFO]: [bruce8866:  - sheep in overworld: 0.92ms]
+[15:52:21] [Server thread/INFO]: [bruce8866: ]
+[15:52:21] [Server thread/INFO]: [bruce8866: Average tick time: 48.557ms]
+[15:52:21] [Server thread/INFO]: [bruce8866: Top 10 counts:]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - chest in overworld: 637.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 401.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - villager in overworld: 170.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - item_frame in overworld: 99.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - cat in overworld: 99.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - cow in overworld: 91.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 89.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - chicken in overworld: 86.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 70.0]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - pig in overworld: 64.0]
+[15:52:21] [Server thread/INFO]: [bruce8866: Top 10 CPU hogs:]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - villager in overworld: 12.01ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - minecart in overworld: 8.01ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - zombie in overworld: 3.57ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - cat in overworld: 2.56ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - cow in overworld: 2.28ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - iron_golem in overworld: 1.98ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - chicken in overworld: 1.18ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - horse in overworld: 1.17ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - hopper in overworld: 1.00ms]
+[15:52:21] [Server thread/INFO]: [bruce8866:  - sheep in overworld: 0.93ms]
+[15:57:30] [Server thread/INFO]: bruce8866 was slain by Iron Golem
+[16:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:00:22] [Server thread/INFO]: Villager class_1646['Villager'/15219, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.30] died, message: 'Villager was squished too much'
+[16:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:01:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16:03:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 20.01.2021_16-03-43
+[16:03:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[16:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[16:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:03:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:03:48] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[16:03:48] [Server thread/WARN]: bruce8866 moved too quickly! -2.0581753645601566,0.03499999910592777,9.922685345711301
+[16:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5774ms or 115 ticks behind
+[16:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[16:04:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[16:05:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[16:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[16:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:05:52] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[16:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:06:58] [Server thread/INFO]: [bruce8866: ]
+[16:06:58] [Server thread/INFO]: [bruce8866: Avg. server tick time: 54.570ms]
+[16:06:58] [Server thread/INFO]: [bruce8866: Network: 0.153ms]
+[16:06:58] [Server thread/INFO]: [bruce8866: Async Tasks: 0.446ms]
+[16:06:58] [Server thread/INFO]: [bruce8866: overworld:]
+[16:06:58] [Server thread/INFO]: [bruce8866:  - Spawning and Random Ticks: 2.615ms]
+[16:06:58] [Server thread/INFO]: [bruce8866:  - Blocks: 4.680ms]
+[16:06:58] [Server thread/INFO]: [bruce8866:  - Entities: 44.143ms]
+[16:06:58] [Server thread/INFO]: [bruce8866:  - Block Entities: 2.209ms]
+[16:06:58] [Server thread/INFO]: [bruce8866: The Rest, whatever that might be: 0.323ms]
+[16:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:07:34] [Server thread/INFO]: Villager class_1646['Villager'/433, l='ServerLevel[The World]', x=-301.70, y=71.00, z=-229.70] died, message: 'Villager was squished too much'
+[16:07:43] [Server thread/INFO]: Villager class_1646['Villager'/15211, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.30] died, message: 'Villager was squished too much'
+[16:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:10:48] [Server thread/INFO]: Alex lost connection: Killed
+[16:10:48] [Server thread/INFO]: Alex left the game
+[16:20:27] [Server thread/INFO]: Villager class_1646['Villager'/15212, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[16:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
+[16:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[16:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[16:42:17] [Server thread/INFO]: Villager class_1646['Villager'/441, l='ServerLevel[The World]', x=-301.30, y=71.00, z=-229.70] died, message: 'Villager was squished too much'
+[16:58:03] [Server thread/INFO]: [bruce8866: ai_tracker app loaded with /ai_tracker command]
+[16:58:03] [Server thread/INFO]: App ai_tracker loaded in 116 ms
+[16:58:16] [Server thread/INFO]: [bruce8866: Error while running custom command: Fail: stored function villager_hostile_detection takes 1 arguments, not 0:
+hostile => ??
+]
+[17:00:37] [Server thread/INFO]: Villager class_1646['Villager'/49513, l='ServerLevel[The World]', x=-650.70, y=56.00, z=-93.30] died, message: 'Villager was squished too much'
+[17:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[17:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:03:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 20.01.2021_17-03-43
+[17:03:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[17:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[17:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:03:47] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[17:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6000ms or 120 ticks behind
+[17:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:04:21] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[17:04:21] [Server thread/INFO]: bruce8866 left the game
+[17:06:02] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[18:03:25] [Server thread/INFO]: bruce8866[/61.228.162.196:2126] logged in with entity id 51300 at (-646.2543706333843, 52.0, -130.61290969908572)
+[18:03:25] [Server thread/INFO]: bruce8866 joined the game
+[18:03:25] [Netty Server IO #2/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[18:03:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 20.01.2021_18-03-43
+[18:03:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[18:03:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[18:03:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:03:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:03:48] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[18:03:48] [Server thread/WARN]: bruce8866 moved too quickly! -8.85314628074525,-6.9950723739699825,13.889033456782855
+[18:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5817ms or 116 ticks behind
+[18:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28457ms or 569 ticks behind
+[18:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11466ms or 229 ticks behind
+[18:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:06:02] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[18:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18:16:23] [Server thread/INFO]: Villager class_1646['Villager'/51391, l='ServerLevel[The World]', x=-650.70, y=56.00, z=-93.30] died, message: 'Villager was squished too much'
+[18:18:23] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[18:18:23] [Server thread/INFO]: bruce8866 left the game
+[19:03:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 20.01.2021_19-03-43
+[19:03:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[19:03:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[19:03:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:03:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:03:44] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[19:05:48] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[21:06:59] [Server thread/INFO]: bruce8866[/61.228.162.196:6361] logged in with entity id 54581 at (-703.6999999880791, 31.0, -139.30000001192093)
+[21:06:59] [Server thread/INFO]: bruce8866 joined the game
+[21:07:00] [Netty Server IO #5/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[21:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[21:13:15] [Server thread/INFO]: Villager class_1646['Villager'/54706, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[21:16:07] [Server thread/INFO]: bruce8866 was slain by Iron Golem
+[21:17:25] [Server thread/INFO]: Villager class_1646['Villager'/428, l='ServerLevel[The World]', x=-301.70, y=71.00, z=-229.30] died, message: 'Villager was squished too much'
+[21:17:38] [Server thread/INFO]: [bruce8866: Set own game mode to Spectator Mode]
+[21:17:40] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[21:19:50] [Server thread/INFO]: Villager class_1646['Villager'/54698, l='ServerLevel[The World]', x=-650.70, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[21:20:28] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[21:20:28] [Server thread/INFO]: bruce8866 left the game
+[21:25:04] [Server thread/INFO]: bruce8866[/61.228.162.196:7158] logged in with entity id 57998 at (-648.2685637532089, 32.0, -140.30844683073536)
+[21:25:04] [Server thread/INFO]: bruce8866 joined the game
+[21:25:05] [Netty Server IO #0/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[21:26:41] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[21:26:41] [Server thread/INFO]: bruce8866 left the game
+[21:29:53] [Server thread/INFO]: bruce8866[/61.228.162.196:7346] logged in with entity id 58603 at (-641.7551476711448, 32.0, -141.46423057290485)
+[21:29:53] [Server thread/INFO]: bruce8866 joined the game
+[21:29:53] [Netty Server IO #3/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[21:59:59] [Server thread/INFO]: Villager class_1646['Villager'/58694, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[22:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:06:59] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 20.01.2021_22-06-59
+[22:06:59] [Server thread/INFO]: [Textile Backup] Saving server...
+[22:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[22:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:07:04] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[22:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[22:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[22:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[22:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[22:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[22:08:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:09:07] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[22:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:26:06] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[22:26:06] [Server thread/INFO]: bruce8866 left the game
+[22:37:37] [Server thread/INFO]: bruce8866[/61.228.162.196:9537] logged in with entity id 70263 at (-638.2809639620447, 32.5, -140.58483937203994)
+[22:37:37] [Server thread/INFO]: bruce8866 joined the game
+[22:37:39] [Netty Server IO #6/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[22:41:53] [Server thread/INFO]: Villager class_1646['Villager'/70351, l='ServerLevel[The World]', x=-650.70, y=56.00, z=-93.30] died, message: 'Villager was squished too much'
+[22:48:32] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[22:48:32] [Server thread/INFO]: bruce8866 left the game
+[23:06:59] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 20.01.2021_23-06-59
+[23:06:59] [Server thread/INFO]: [Textile Backup] Saving server...
+[23:07:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[23:07:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:07:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:07:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[23:09:04] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[23:12:21] [Server thread/INFO]: bruce8866[/61.228.162.196:10538] logged in with entity id 73434 at (-662.9435737826605, 52.0, -138.65388855010045)
+[23:12:21] [Server thread/INFO]: bruce8866 joined the game
+[23:12:22] [Netty Server IO #1/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[23:42:11] [Server thread/INFO]: Villager class_1646['Villager'/73556, l='ServerLevel[The World]', x=-650.30, y=56.00, z=-93.70] died, message: 'Villager was squished too much'
+[23:59:50] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[23:59:50] [Server thread/INFO]: bruce8866 left the game

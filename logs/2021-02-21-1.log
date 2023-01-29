@@ -1,0 +1,38 @@
+[00:03:56] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[00:03:56] [Server thread/INFO]: LMY008117 left the game
+[06:50:10] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 21.02.2021_06-50-10
+[06:50:10] [Server thread/INFO]: [Textile Backup] Saving server...
+[06:50:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[06:50:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:50:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:50:12] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[06:51:53] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 24.01.2021_01-43-36.zip
+[06:51:53] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[17:05:30] [Server thread/INFO]: LMY008117[/120.97.130.19:19499] logged in with entity id 45289 at (-76.69999998807909, 252.5, -27.397613175650907)
+[17:05:30] [Server thread/INFO]: LMY008117 joined the game
+[17:05:31] [Netty Server IO #5/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[17:16:21] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[17:16:21] [Server thread/INFO]: LMY008117 left the game
+[17:27:02] [Server thread/INFO]: LMY008117[/120.97.130.18:51515] logged in with entity id 46995 at (-240.32709028379253, 77.0, -245.8513581477474)
+[17:27:02] [Server thread/INFO]: LMY008117 joined the game
+[17:27:03] [Netty Server IO #0/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[17:28:10] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[17:28:10] [Server thread/INFO]: LMY008117 left the game
+[17:46:42] [Server thread/INFO]: LMY008117[/120.97.130.16:42565] logged in with entity id 47161 at (-241.401025013816, 77.0, -244.8854711228907)
+[17:46:42] [Server thread/INFO]: LMY008117 joined the game
+[17:46:43] [Netty Server IO #2/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[17:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[18:07:10] [Server thread/INFO]: LMY008117 has made the advancement [A Seedy Place]
+[18:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[18:46:52] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[18:46:52] [Server thread/INFO]: LMY008117 left the game
+[18:49:17] [Server thread/INFO]: LMY008117[/120.97.130.19:25234] logged in with entity id 54963 at (-6.651480789484715, 62.0, -34.77697488414475)
+[18:49:17] [Server thread/INFO]: LMY008117 joined the game
+[18:49:17] [Netty Server IO #5/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[20:18:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5722ms or 114 ticks behind
+[20:18:19] [Server thread/WARN]: Entity class_3222['LMY008117'/54963, l='ServerLevel[The World]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:18:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:18:31] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:18:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6261ms or 125 ticks behind
+[21:24:53] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[21:24:53] [Server thread/INFO]: LMY008117 left the game

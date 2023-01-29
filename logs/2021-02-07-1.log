@@ -1,0 +1,239 @@
+[01:21:44] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 07.02.2021_01-21-44
+[01:21:44] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[01:21:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:21:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[01:21:47] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:23:26] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 22.01.2021_13-58-55.zip
+[01:23:26] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[10:44:55] [Server thread/INFO]: LMY008117[/120.97.130.17:23190] logged in with entity id 79677 at (1856.300000011921, 184.0, 591.4393286770921)
+[10:44:55] [Server thread/INFO]: LMY008117 joined the game
+[10:44:58] [Netty Server IO #4/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[11:40:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/108506, l='ServerLevel[The World]', x=1859.47, y=67.95, z=586.43]
+[12:28:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[13:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8879ms or 177 ticks behind
+[13:21:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1586, y=46, z=306} class_2338{x=1587, y=46, z=306}
+[13:26:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1882, y=10, z=536} class_2338{x=1883, y=10, z=536}
+[13:26:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1883, y=10, z=535} class_2338{x=1883, y=10, z=536}
+[13:26:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1883, y=10, z=533} class_2338{x=1883, y=10, z=532}
+[13:51:00] [Server thread/INFO]: bruce8866[/61.228.171.144:3357] logged in with entity id 143682 at (1856.300000011921, 184.0, 591.5844755205901)
+[13:51:00] [Server thread/INFO]: bruce8866 joined the game
+[13:51:01] [Netty Server IO #6/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[13:51:50] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[13:51:50] [Server thread/INFO]: LMY008117 left the game
+[14:01:15] [Server thread/INFO]: LMY008117[/120.97.130.18:38779] logged in with entity id 149099 at (-238.89039488515255, 71.0, -248.59616082573945)
+[14:01:15] [Server thread/INFO]: LMY008117 joined the game
+[14:01:17] [Netty Server IO #0/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[14:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[14:42:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/171395, l='ServerLevel[The World]', x=1858.40, y=67.95, z=586.43]
+[14:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/181318, l='ServerLevel[The World]', x=1856.09, y=67.95, z=586.57]
+[15:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15:43:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Piston'/197865, l='ServerLevel[The World]', x=-1255.28, y=128.42, z=-420.32]
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Piston'/197865, l='ServerLevel[The World]', x=-1255.28, y=128.42, z=-420.32]
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/197866, l='ServerLevel[The World]', x=-1253.53, y=129.34, z=-420.34]
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/197866, l='ServerLevel[The World]', x=-1253.53, y=129.34, z=-420.34]
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Block of Gold'/197867, l='ServerLevel[The World]', x=-1254.60, y=128.45, z=-420.46]
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Block of Gold'/197867, l='ServerLevel[The World]', x=-1254.60, y=128.45, z=-420.46]
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Trapdoor'/197868, l='ServerLevel[The World]', x=-1254.65, y=129.67, z=-421.47]
+[16:21:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Trapdoor'/197868, l='ServerLevel[The World]', x=-1254.65, y=129.67, z=-421.47]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Trapdoor'/198454, l='ServerLevel[The World]', x=-1235.28, y=129.64, z=-424.69]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Trapdoor'/198454, l='ServerLevel[The World]', x=-1235.28, y=129.64, z=-424.69]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/198455, l='ServerLevel[The World]', x=-1234.57, y=129.66, z=-423.59]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/198455, l='ServerLevel[The World]', x=-1234.57, y=129.66, z=-423.59]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/198456, l='ServerLevel[The World]', x=-1235.45, y=128.40, z=-423.68]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Netherrack'/198456, l='ServerLevel[The World]', x=-1235.45, y=128.40, z=-423.68]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Piston'/198457, l='ServerLevel[The World]', x=-1236.31, y=128.65, z=-423.67]
+[16:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Piston'/198457, l='ServerLevel[The World]', x=-1236.31, y=128.65, z=-423.67]
+[16:52:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Ghast Tear'/203172, l='ServerLevel[The World]', x=-1221.36, y=102.02, z=-447.17]
+[16:52:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gunpowder'/203173, l='ServerLevel[The World]', x=-1221.36, y=102.02, z=-447.17]
+[16:52:35] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/203174, l='ServerLevel[The World]', x=-1221.36, y=102.02, z=-447.17]
+[16:52:35] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/203175, l='ServerLevel[The World]', x=-1221.36, y=102.02, z=-447.17]
+[16:52:35] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/203176, l='ServerLevel[The World]', x=-1221.36, y=102.02, z=-447.17]
+[16:57:33] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[16:57:33] [Server thread/INFO]: bruce8866 left the game
+[17:16:14] [Server thread/INFO]: bruce8866[/61.228.171.144:5542] logged in with entity id 208000 at (-1236.699999988079, 101.0, -421.48229801769395)
+[17:16:14] [Server thread/INFO]: bruce8866 joined the game
+[17:16:15] [Netty Server IO #3/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[17:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[17:30:08] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[17:30:08] [Server thread/INFO]: bruce8866 left the game
+[17:33:26] [Server thread/INFO]: bruce8866[/61.228.171.144:5660] logged in with entity id 209824 at (-1220.544960692174, 71.5, -481.5948827695663)
+[17:33:26] [Server thread/INFO]: bruce8866 joined the game
+[17:33:27] [Netty Server IO #6/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[17:33:34] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[17:33:34] [Server thread/INFO]: bruce8866 left the game
+[17:33:50] [Server thread/INFO]: bruce8866[/61.228.171.144:5672] logged in with entity id 209859 at (-1220.877062314288, 71.5, -476.9077801149664)
+[17:33:50] [Server thread/INFO]: bruce8866 joined the game
+[17:33:51] [Netty Server IO #2/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[17:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[18:01:48] [Server thread/INFO]: LMY008117 has completed the challenge [Return to Sender]
+[18:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[18:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6488ms or 129 ticks behind
+[18:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[18:15:38] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[18:15:38] [Server thread/INFO]: bruce8866 left the game
+[18:16:32] [Server thread/INFO]: bruce8866[/61.228.171.144:6045] logged in with entity id 223452 at (-4.121199676202756, 27.645573636418757, 61.30000001192093)
+[18:16:32] [Server thread/INFO]: bruce8866 joined the game
+[18:16:32] [Netty Server IO #5/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[18:16:34] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[18:16:46] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[18:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[18:19:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9340ms or 186 ticks behind
+[18:23:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[18:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[18:29:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[18:37:31] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[18:37:31] [Server thread/INFO]: bruce8866 left the game
+[18:55:33] [Server thread/INFO]: bruce8866[/61.228.171.144:6322] logged in with entity id 249330 at (-1744.699999988079, 53.01988554802244, -461.69999998807907)
+[18:55:33] [Server thread/INFO]: bruce8866 joined the game
+[18:55:33] [Netty Server IO #0/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[18:59:21] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[18:59:21] [Server thread/INFO]: bruce8866 left the game
+[18:59:53] [Server thread/INFO]: bruce8866[/61.228.171.144:6372] logged in with entity id 252460 at (-1657.4060230575508, 63.97891546723918, -394.36398631998634)
+[18:59:53] [Server thread/INFO]: bruce8866 joined the game
+[18:59:53] [Netty Server IO #3/WARN]: Player bruce8866 joined with another carpet version: 1.4.8+v200811
+[18:59:55] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[19:00:15] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[19:06:17] [Server thread/INFO]: [bruce8866: 所有的Carpet Mod選項:]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 關閉伺服器作弊檢測 (antiCheatDisabled) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 放置地毯顯示進階數據 (carpets) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - chainStone [true] [false] [stick_to_all]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - cleanLogs [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 合併小經驗球 (combineXPOrbs) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 距離測定 (commandDistance) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 繪製圖形 (commandDraw) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 獲取方塊進階資訊 (commandInfo) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 遊戲數據追蹤器 (commandLog) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 刷怪區域追蹤器 (commandPerimeterInfo) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 機器人控制 (commandPlayer) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 遊戲性能監視器 (commandProfile) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 地毯腳本控制器 (commandScript) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 地毯腳本使用權限 (commandScriptACE) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 刷怪追蹤器 (commandSpawn) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 遊戲時鐘控制器 (commandTick) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - AI追蹤器 (commandTrackAI) [true] [false] [ops]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 創造飛行阻力系數 (creativeFlyDrag) [0.09]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 創造飛行速度系數 (creativeFlySpeed) [1.0]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 創造玩家無碰撞檢測 (creativeNoClip) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - MOTD更改 (customMOTD) [_]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 默認開啟的遊戲數據追蹤器 (defaultLoggers) [none] [tps] [mobcaps,tps]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 樹苗在沙漠中乾枯 (desertShrubs) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 爆炸不破壞方塊 (explosionNoBlockDamage) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 隨機參數極端化 (extremeBehaviours) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - fill/clone上限更改 (fillLimit) [32768] [250000] [1000000]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - fill更新設置 (fillUpdates) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 特定建築怪在超平坦世界生成 (flatWorldStructureSpawning) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 仙人掌扳手 (flippinCactus) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 關閉霧氣 (fogOff) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 永加載區塊上限更改 (forceloadLimit) [256]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 強制TNT角度 (hardcodeTNTangle) [-1] [-1.0]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 漏斗計數器 (hopperCounters) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 屍殼在沙漠神殿裡生成 (huskSpawningInTemples) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 放置方塊產生更新 (interactionUpdates) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 延遲自然生成 (lagFreeSpawning) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 語言 (language) [none] [zh_cn] [zh_tw]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 栓繩修復 (leadFix) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - lightEngineMaxBatchSize [5] [50] [100] [200]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 最大實體擠壓數量 (maxEntityCollisions) [0] [1] [20]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 合併TNT (mergeTNT) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 工具缺失修復 (missingTools) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 容器方塊移動 (movableBlockEntities) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 單個玩家睡覺跳過夜晚 (onePlayerSleeping) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - TNT優化 (optimizedTNT) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 鸚鵡停留 (persistentParrots) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - piglinsSpawningInBastions [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 放置旋轉問題修復 (placementRotationFix) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 創造模式玩家地獄門傳送延遲 (portalCreativeDelay) [1] [40] [80] [72000]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 生存模式地獄門傳送延遲 (portalSurvivalDelay) [1] [40] [80] [72000]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 自訂義推動上限 (pushLimit) [10] [12] [14] [100]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 半連接激活開關 (quasiConnectivity) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 自訂義動力鐵軌激活距離 (railPowerLimit) [9] [15] [30]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - renewableBlackstone [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 可再生珊瑚 (renewableCoral) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 可再生海綿 (renewableSponges) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 仙人掌扳手發射器版 (rotatorBlock) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - Scarpet腳本自動加載 (scriptsAutoload) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 可重生界伏蚌 (shulkerSpawningInEndCities) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 蠹魚鑽出方塊掉落礫石 (silverFishDropGravel) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 更平暢玩家端動畫 (smoothClientAnimations) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 出生點永加載區塊半徑 (spawnChunksSize) [0] [11]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 可堆疊界伏盒 (stackableShulkerBoxes) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 召喚閃電自然化 (summonNaturalLightning) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - superSecretSetting [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - TNT放置時不會被更新 (tntDoNotUpdate) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 移除TNT點燃時隨機動量 (tntPrimerMomentumRemoved) [true] [false]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - TNT爆炸範圍設置 (tntRandomRange) [-1] [-1.0]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 自訂義視野 (viewDistance) [0] [12] [16] [32]]
+[19:06:17] [Server thread/INFO]: [bruce8866: - 經驗球吸收無冷卻 (xpNoCooldown) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: 目前啟用的 Carpet Mod 選項:]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 關閉伺服器作弊檢測 (antiCheatDisabled) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 機器人控制 (commandPlayer) [true] [false] [ops]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 默認開啟的遊戲數據追蹤器 (defaultLoggers) [none] [tps] [mobcaps,tps]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 仙人掌扳手 (flippinCactus) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 語言 (language) [none] [zh_cn] [zh_tw]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 栓繩修復 (leadFix) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 單個玩家睡覺跳過夜晚 (onePlayerSleeping) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 鸚鵡停留 (persistentParrots) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: - 放置旋轉問題修復 (placementRotationFix) [true] [false]]
+[19:06:19] [Server thread/INFO]: [bruce8866: Carpet Mod 版本: 1.4.23+v210115]
+[19:06:19] [Server thread/INFO]: [bruce8866: 瀏覽分類:
+[發射器] [特性] [優化] [scarpet腳本程式語言] [生存用] [玩家端] [實驗用] [TNT] [BUG修復] [創造用] [指令]]
+[19:06:30] [Server thread/INFO]: [bruce8866: Carpet Mod中符合"生存用"的選項：:]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 關閉伺服器作弊檢測 (antiCheatDisabled) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 放置地毯顯示進階數據 (carpets) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - cleanLogs [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - ctrlQ合成修復 (ctrlQCraftingFix) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 默認開啟的遊戲數據追蹤器 (defaultLoggers) [none] [tps] [mobcaps,tps]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 仙人掌扳手 (flippinCactus) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 工具缺失修復 (missingTools) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 單個玩家睡覺跳過夜晚 (onePlayerSleeping) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 鸚鵡停留 (persistentParrots) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 生存模式地獄門傳送延遲 (portalSurvivalDelay) [1] [40] [80] [72000]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 更平暢玩家端動畫 (smoothClientAnimations) [true] [false]]
+[19:06:30] [Server thread/INFO]: [bruce8866: - 可堆疊界伏盒 (stackableShulkerBoxes) [true] [false]]
+[19:06:38] [Server thread/INFO]: [bruce8866: stackableShulkerBoxes: true, [設為預設?]]
+[19:06:47] [Server thread/INFO]: [bruce8866: 規則可堆疊界伏盒 (stackableShulkerBoxes)將會被默認設置為true]
+[19:14:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[20:39:43] [Server thread/INFO]: [bruce8866: carpets: true, [設為預設?]]
+[20:43:19] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[20:43:27] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[21:10:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1332, y=114, z=-446} class_2338{x=-1280, y=115, z=-503}
+[21:10:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1332, y=114, z=-446} class_2338{x=-1280, y=115, z=-503}
+[21:48:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Bricks'/286858, l='ServerLevel[The World]', x=-1264.42, y=68.65, z=-437.59]
+[21:48:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Bricks'/286858, l='ServerLevel[The World]', x=-1264.42, y=68.65, z=-437.59]
+[21:50:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Soul Soil'/287203, l='ServerLevel[The World]', x=-1268.65, y=72.28, z=-450.68]
+[21:50:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Soul Soil'/287203, l='ServerLevel[The World]', x=-1268.65, y=72.28, z=-450.68]
+[21:52:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Brick Fence'/287475, l='ServerLevel[The World]', x=-1254.63, y=69.52, z=-422.70]
+[21:52:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Brick Fence'/287475, l='ServerLevel[The World]', x=-1254.63, y=69.52, z=-422.70]
+[21:52:13] [Server thread/INFO]: bruce8866 was blown up by LMY008117 using [自由]
+[21:53:46] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[21:53:46] [Server thread/INFO]: LMY008117 left the game
+[21:53:55] [Server thread/INFO]: LMY008117[/120.97.130.22:46183] logged in with entity id 288305 at (-1244.9886698679552, 70.0, -427.5090764742317)
+[21:53:55] [Server thread/INFO]: LMY008117 joined the game
+[21:53:56] [Netty Server IO #5/WARN]: Player LMY008117 joined with another carpet version: 1.4.8+v200811
+[21:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[21:56:35] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[21:56:45] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[21:56:50] [Server thread/INFO]: bruce8866 fell from a high place
+[21:57:16] [Server thread/INFO]: [bruce8866: Set own game mode to Creative Mode]
+[21:58:25] [Server thread/INFO]: [bruce8866: Set own game mode to Survival Mode]
+[22:02:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Bricks'/290955, l='ServerLevel[The World]', x=-1245.49, y=69.28, z=-442.54]
+[22:02:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Nether Bricks'/290955, l='ServerLevel[The World]', x=-1245.49, y=69.28, z=-442.54]
+[22:27:35] [Server thread/INFO]: bruce8866 lost connection: Disconnected
+[22:27:35] [Server thread/INFO]: bruce8866 left the game
+[22:28:18] [Server thread/INFO]: LMY008117 lost connection: Disconnected
+[22:28:18] [Server thread/INFO]: LMY008117 left the game
+[22:44:55] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 07.02.2021_22-44-55
+[22:44:55] [Server thread/INFO]: [Textile Backup] Saving server...
+[22:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[22:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[22:44:57] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[22:46:37] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 23.01.2021_01-43-36.zip
+[22:46:37] [pool-3-thread-1/INFO]: [Textile Backup] Done!

@@ -1,0 +1,8 @@
+[05:29:30] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 25.02.2021_05-29-30
+[05:29:30] [Server thread/INFO]: [Textile Backup] Saving server...
+[05:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[05:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:29:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:29:31] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[05:31:18] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 26.01.2021_05-37-50.zip
+[05:31:18] [pool-3-thread-1/INFO]: [Textile Backup] Done!

@@ -1,0 +1,21 @@
+[12:42:00] [Server thread/INFO]: OTARO[/120.97.130.18:64667] logged in with entity id 664 at (-661.8473022331723, 48.5, -139.5258203513759)
+[12:42:00] [Server thread/INFO]: OTARO joined the game
+[12:42:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[12:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12:42:43] [Server thread/WARN]: OTARO moved too quickly! 18.402552633896505,-2.072251237084245,-3.534800663997544
+[12:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
+[12:46:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:46:09] [Server thread/INFO]: tps<--[HERE]
+[13:39:03] [Server thread/INFO]: Stopping the server
+[13:39:03] [Server thread/INFO]: Stopping server
+[13:39:03] [Server thread/INFO]: Saving players
+[13:39:03] [Server thread/INFO]: Saving worlds
+[13:39:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[The World]'/minecraft:overworld
+[13:39:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[13:39:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[The World]'/minecraft:the_nether
+[13:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[The World]'/minecraft:the_end
+[13:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[13:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -1,0 +1,9 @@
+[08:31:52] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 17.05.2021_08-31-52
+[08:31:52] [Server thread/INFO]: [Textile Backup] Saving server...
+[08:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (The World): All chunks are saved
+[08:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:31:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[08:31:54] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[08:33:29] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 26.01.2021_23-14-38.zip
+[08:33:29] [pool-3-thread-1/INFO]: [Textile Backup] Done!
